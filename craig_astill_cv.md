@@ -43,7 +43,7 @@ Software Developer: Test framework work (2011 - 2017)
   portfolio.
 
 Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
----------------------------------------_------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
 * Transitioned from Quality Assurance to Software Engineer on the
   [Cisco TelePresence Conductor] product, which was a load balancer for the
