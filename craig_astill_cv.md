@@ -17,30 +17,32 @@ Skills
 Software Developer / Quality Assurance: Cisco (Aug 2008 - Present)
 ==================================================================
 
-Quality Assurance [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
-----------------------------------------------------------------
+Team Lead: Yet to be released Cloud Project (March 2017 - Present)
+------------------------------------------------------------------
 
-* Automated Python testing of the [Cisco TelePresence VCS] (Video Communication
-  Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Interworking
-  server for TelePresence products in the [Cisco Unified Communications] &
-  Third Party portfolios.
-* Followed an Agile workflow after Scrum Master certification from AgileBear.
-* Mentor for new Quality Assurance hires.
+* Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java
+  Spring Boot.
+* Spring Boot Application was deployed both to internal Cisco cloud and to a
+  Google Kubernetes Cluster.
+* Design & Deployed the Continuous Integration/Deployment pipeline for our
+  application using Jenkins' declarative syntax.
+* Deploy internal test servers via Ansible.
 
-Lab Technician (Jan 2010 - March 2011)
---------------------------------------
+Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
+--------------------------------------------------------------------
 
-* Planning & Deployment of an EMC SAN, Cisco Blade Server and VMWare
-  infrastructure for Application testing & saleable portfolio expansion.
-
-Software Developer: Test framework work (2011 - 2017)
------------------------------------------------------
-
-* Actively involved in the design & development of our in-house Python/Twisted
-  based testing framework for all API/SSH/CLI/Web driven TelePresence products.
-* Participated in Community meet ups to expand usage from our UK/Norway offices
-  to be used globally by all products in the [Cisco Unified Communications]
-  portfolio.
+* Returned as a developer to work on the C++ B2BUA (Back to Back User Agent)
+  component. Released features include Multistream & Secure iX Transport
+  support.
+* Documented & reviewed _"per-developer"_ process during transitioning the
+  codebase from SVN to Git (Bitbucket based) and our issue tracker from
+  Bugzilla to Jira. Codebase had ~180 active committers globally.
+* Migrated several test framework & product code Continuous Integration
+  pipelines from poorly maintained manual Jenkins jobs to Jenkins' scripted
+  syntax + Job DSL.
+* Involved in a development best practices group. My output included
+  improvement drives in: documentation (Doxygen/Sphinx), componentisation for
+  testability and QA/PO (Product Owner) presence during planning.
 
 Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 ----------------------------------------------------------------------------------------------
@@ -56,30 +58,30 @@ Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 20
 * Instilled a "QA first" viewpoint in our Agile planning sessions to reduce
   development issues.
 
-Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
---------------------------------------------------------------------
+Software Developer: Test framework work (2011 - 2017)
+-----------------------------------------------------
 
-* Returned as a developer to work on the C++ B2BUA (Back to Back User Agent)
-  component. Released features include Multistream & Secure iX Transport
-  support.
-* Involved in transitioning the codebase from SVN to Git (Bitbucket based) and
-  our issue tracker from Bugzilla to Jira.
-* Involved in developing the Continuous Integration pipeline in Jenkins'
-  scripted syntax & Job DSL.
-* Involved in instilling QA & communication best practices such as improved
-  documentation (Doxygen/Sphinx), componentisation for testability and QA/PO
-  (Product Owner) involvement in planning.
+* Actively involved in the design & development of our in-house Python/Twisted
+  based testing framework for all API/SSH/CLI/Web driven TelePresence products.
+* Participated in Community meet ups to expand usage from our UK/Norway offices
+  to be used globally by all products in the [Cisco Unified Communications]
+  portfolio.
 
-Team Lead: Yet to be released Cloud Project (March 2017 - Present)
-------------------------------------------------------------------
+Lab Technician (Jan 2010 - March 2011)
+--------------------------------------
 
-* Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java
-  Spring Boot.
-* Spring Boot Application was deployed both to internal Cisco cloud and to a
-  Google Kubernetes Cluster.
-* Design & Deployed the Continuous Integration/Deployment pipeline for our
-  application using Jenkins' declarative syntax.
-* Deploy internal test servers via Ansible.
+* Planning & Deployment of an EMC SAN, Cisco Blade Server and VMWare
+  infrastructure for Application testing & saleable portfolio expansion.
+
+Quality Assurance [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
+----------------------------------------------------------------
+
+* Automated Python testing of the [Cisco TelePresence VCS] (Video Communication
+  Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Interworking
+  server for TelePresence products in the [Cisco Unified Communications] &
+  Third Party portfolios.
+* Followed an Agile workflow after Scrum Master certification from AgileBear.
+* Mentor for new Quality Assurance hires.
 
 System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
 ======================================================================
