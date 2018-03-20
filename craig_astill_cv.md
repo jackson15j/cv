@@ -10,9 +10,9 @@ improvement evangelist.
 Skills
 ======
 
-* Core: Python/Twisted, C++, Java/Spring Boot, DevOps, Docker, Jenkins,
-  Agile, Linux.
-* Additional: Erlang, Ansible, VMWare, Groovy.
+* Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Agile,
+  Linux, C++ 14.
+* Additional: Groovy, Ansible, VMWare, Erlang.
 
 Software Developer / Quality Assurance: Cisco (Aug 2008 - Present)
 ==================================================================
@@ -20,26 +20,26 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - Present)
 Team Lead: Yet to be released Cloud Project (March 2017 - Present)
 ------------------------------------------------------------------
 
-* Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java
+* Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   Spring Boot.
 * Spring Boot Application was deployed both to internal Cisco cloud and to a
   Google Kubernetes Cluster.
 * Design & Deployed the Continuous Integration/Deployment pipeline for our
-  application using Jenkins' declarative syntax.
-* Deploy internal test servers via Ansible.
+  application using Jenkins' declarative syntax, Maven and Docker.
+* Deployed internal test Tomcat servers via Ansible.
 
 Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 --------------------------------------------------------------------
 
-* Returned as a developer to work on the C++ B2BUA (Back to Back User Agent)
-  component. Released features include Multistream & Secure iX Transport
-  support.
+* Returned as a developer to work on the C++ 14 based [Cisco TelePresence VCS]
+  doing feature development on internal/external protocols, such as: SIP,
+  H323, Multi-stream and Secure iX Transport support.
 * Documented & reviewed _"per-developer"_ process during transitioning the
   codebase from SVN to Git (Bitbucket based) and our issue tracker from
   Bugzilla to Jira. Codebase had ~180 active committers globally.
 * Migrated several test framework & product code Continuous Integration
   pipelines from poorly maintained manual Jenkins jobs to Jenkins' scripted
-  syntax + Job DSL.
+  syntax + Job DSL under version control.
 * Involved in a development best practices group. My output included
   improvement drives in: documentation (Doxygen/Sphinx), componentisation for
   testability and QA/PO (Product Owner) presence during planning.
@@ -51,7 +51,7 @@ Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 20
   [Cisco TelePresence Conductor] product, which was a load balancer for the
   [Cisco TelePresence MCU] and [Cisco TelePresence Server] to enable efficient
   use of geo-located Conference resources.
-* Python based testing with further development work of our in-house
+* Automated Python based testing with further development work of our in-house
   Python/Twisted test framework.
 * Python/Twisted based feature development with Erlang at the transaction
   layer.
@@ -63,6 +63,8 @@ Software Developer: Test framework work (2011 - 2017)
 
 * Actively involved in the design & development of our in-house Python/Twisted
   based testing framework for all API/SSH/CLI/Web driven TelePresence products.
+* Added support for multiple global teams products before handing off to those
+  respective teams.
 * Participated in Community meet ups to expand usage from our UK/Norway offices
   to be used globally by all products in the [Cisco Unified Communications]
   portfolio.
@@ -70,8 +72,8 @@ Software Developer: Test framework work (2011 - 2017)
 Lab Technician (Jan 2010 - March 2011)
 --------------------------------------
 
-* Planning & Deployment of an EMC SAN, Cisco Blade Server and VMWare
-  infrastructure for Application testing & saleable portfolio expansion.
+* Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
+  for Application testing & saleable portfolio expansion.
 
 Quality Assurance [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 ----------------------------------------------------------------
