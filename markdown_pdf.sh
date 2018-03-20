@@ -27,6 +27,8 @@ EXTENSION="${FULL_FILENAME##*.}"
 FILENAME="${FULL_FILENAME%.*}"
 
 # pandoc craig_astill_cv.md -o craig_astill_cv.pdf
-pandoc "${FULL_FILENAME}" -o "${FILENAME}.pdf"
-
-# --pdf-engine-opt=
+pandoc \
+    -V papersize:a4 \
+    -V fontsize:10pt \
+    -V geometry:margin=1in \
+    "${FULL_FILENAME}" -o "${FILENAME}.pdf"
