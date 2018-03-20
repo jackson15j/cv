@@ -22,18 +22,18 @@ Team Lead: Yet to be released Cloud Project (March 2017 - Present)
 
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   Spring Boot.
-* Spring Boot Application was deployed both to internal Cisco cloud and to a
-  Google Kubernetes Cluster.
-* Design & Deployed the Continuous Integration/Deployment pipeline for our
+* Spring Boot Application was deployed both to an internal Cisco cloud and to a
+  Google Kubernetes Cluster (the latter configured myself).
+* Design & implemented the Continuous Integration/Deployment pipeline for our
   application using Jenkins' declarative syntax, Maven and Docker.
 * Deployed internal test Tomcat servers via Ansible.
 
 Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 --------------------------------------------------------------------
 
-* Returned as a developer to work on the C++ 14 based [Cisco TelePresence VCS]
-  doing feature development on internal/external protocols, such as: SIP,
-  H323, Multi-stream and Secure iX Transport support.
+* Returned to the [Cisco TelePresence VCS] project as a C++ 14 developer doing
+  feature development on internal/external protocols, such as: SIP, H323,
+  Multi-stream and Secure iX Transport support.
 * Documented & reviewed _"per-developer"_ process during transitioning the
   codebase from SVN to Git (Bitbucket based) and our issue tracker from
   Bugzilla to Jira. Codebase had ~180 active committers globally.
@@ -43,6 +43,17 @@ Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 * Involved in a development best practices group. My output included
   improvement drives in: documentation (Doxygen/Sphinx), componentisation for
   testability and QA/PO (Product Owner) presence during planning.
+
+Software Developer: Test framework work (2011 - 2017)
+-----------------------------------------------------
+
+* Actively involved in the design & development of our in-house Python/Twisted
+  based testing framework for all API/SSH/CLI/Web driven TelePresence products.
+* Added support for multiple global teams products before handing off to those
+  respective teams.
+* Participated in Community meet ups to expand usage from our UK/Norway offices
+  to be used globally by all products in the [Cisco Unified Communications]
+  portfolio.
 
 Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 ----------------------------------------------------------------------------------------------
@@ -58,28 +69,17 @@ Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 20
 * Instilled a "QA first" viewpoint in our Agile planning sessions to reduce
   development issues.
 
-Software Developer: Test framework work (2011 - 2017)
------------------------------------------------------
-
-* Actively involved in the design & development of our in-house Python/Twisted
-  based testing framework for all API/SSH/CLI/Web driven TelePresence products.
-* Added support for multiple global teams products before handing off to those
-  respective teams.
-* Participated in Community meet ups to expand usage from our UK/Norway offices
-  to be used globally by all products in the [Cisco Unified Communications]
-  portfolio.
-
 Lab Technician (Jan 2010 - March 2011)
 --------------------------------------
 
 * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
   for Application testing & saleable portfolio expansion.
 
-Quality Assurance [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
-----------------------------------------------------------------
+Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
+-----------------------------------------------------------------
 
 * Automated Python testing of the [Cisco TelePresence VCS] (Video Communication
-  Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Interworking
+  Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Inter-working
   server for TelePresence products in the [Cisco Unified Communications] &
   Third Party portfolios.
 * Followed an Agile workflow after Scrum Master certification from AgileBear.
