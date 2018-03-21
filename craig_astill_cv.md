@@ -12,8 +12,8 @@ Skills
 ======
 
 * Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Agile,
-  Linux, C++ 14.
-* Additional: Groovy, Ansible, VMWare, Erlang.
+  Linux.
+* Additional: C++ 14, Groovy, Ansible, VMWare.
 
 Software Developer / Quality Assurance: Cisco (Aug 2008 - Present)
 ==================================================================
