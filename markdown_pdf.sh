@@ -31,4 +31,6 @@ pandoc \
     -V papersize:a4 \
     -V fontsize:10pt \
     -V geometry:margin=1in \
+    -V title-meta:"${FILENAME}" \
+    -V author-meta:"Craig Astill" \
     "${FULL_FILENAME}" -o "${FILENAME}.pdf"
