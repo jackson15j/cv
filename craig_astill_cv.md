@@ -5,7 +5,8 @@ Contact: +447834810193, craigastill@gmail.com
 
 Software Developer / DevOps engineer with a strong Quality Assurance
 background. Cross skilled as a team lead, architect, mentor and process
-improvement evangelist.
+improvement evangelist. Capable of transitioning roles to further my team and
+to benefit the company.
 
 Skills
 ======
@@ -31,9 +32,9 @@ Team Lead: Yet to be released Cloud Project (March 2017 - Present)
 Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 --------------------------------------------------------------------
 
-* Returned to the [Cisco TelePresence VCS] project as a C++ 14 developer doing
-  feature development on internal/external protocols, such as: SIP, H323,
-  Multi-stream and Secure iX Transport support.
+* C++ 14 developer for the [Cisco TelePresence VCS] project doing feature
+  development on internal/external protocols, such as: SIP, H323, Multi-stream
+  and Secure iX Transport support.
 * Documented & reviewed _"per-developer"_ process during transitioning the
   codebase from SVN to Git (Bitbucket based) and our issue tracker from
   Bugzilla to Jira. Codebase had ~180 active committers globally.
@@ -100,7 +101,7 @@ Prior Roles
 Education
 =========
 
-* BEng Electronic Engineering - University of Reading (2001 - 2005).
+* BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
 
 Interests
 =========
