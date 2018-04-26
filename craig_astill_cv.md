@@ -3,10 +3,10 @@ Craig Astill
 
 Contact: +447834810193, craigastill@gmail.com
 
-Software Developer / DevOps engineer with a strong Quality Assurance
-background. Cross skilled as a team lead, architect, mentor and process
-improvement evangelist. Capable of transitioning roles to further my team and
-to benefit the company.
+Pragmatic & practically-minded Software Developer / DevOps engineer with a
+strong Quality Assurance background. Cross skilled as a team lead, architect,
+mentor and process improvement evangelist. Capable of transitioning roles to
+further my team and to benefit the company.
 
 Skills
 ======
