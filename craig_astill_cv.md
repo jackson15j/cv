@@ -11,15 +11,17 @@ further my team and to benefit the company.
 Skills
 ======
 
-* Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Agile,
-  Linux.
+* Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
+  Agile, Mentoring.
 * Additional: C++ 14, Groovy, Ansible, VMWare.
 
-Software Developer / Quality Assurance: Cisco (Aug 2008 - Present)
-==================================================================
+Roles
+=====
 
-Team Lead: Yet to be released Cloud Project (March 2017 - Present)
-------------------------------------------------------------------
+Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
+-------------------------------------------------------------------
+
+### Team Lead: Yet to be released Cloud Project (March 2017 - May 2018)
 
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   Spring Boot.
@@ -29,8 +31,7 @@ Team Lead: Yet to be released Cloud Project (March 2017 - Present)
   application using Jenkins' declarative syntax, Maven and Docker.
 * Deployed internal test Tomcat servers via Ansible.
 
-Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
---------------------------------------------------------------------
+### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 
 * C++ 14 developer for the [Cisco TelePresence VCS] project doing feature
   development on internal/external protocols, such as: SIP, H323, Multi-stream
@@ -45,8 +46,7 @@ Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
   improvement drives in: documentation (Doxygen/Sphinx), componentisation for
   testability and QA/PO (Product Owner) presence during planning.
 
-Software Developer: Test framework work (2011 - 2017)
------------------------------------------------------
+### Software Developer: Test framework work (2011 - 2017)
 
 * Actively involved in the design & development of our in-house Python/Twisted
   based testing framework for all API/SSH/CLI/Web driven TelePresence products.
@@ -56,8 +56,7 @@ Software Developer: Test framework work (2011 - 2017)
   to be used globally by all products in the [Cisco Unified Communications]
   portfolio.
 
-Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
-----------------------------------------------------------------------------------------------
+### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
 * Transitioned from Quality Assurance to Software Engineer on the
   [Cisco TelePresence Conductor] product, which was a load balancer for the
@@ -70,14 +69,12 @@ Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 20
 * Instilled a "QA first" viewpoint in our Agile planning sessions to reduce
   development issues.
 
-Lab Technician (Jan 2010 - March 2011)
---------------------------------------
+### Lab Technician (Jan 2010 - March 2011)
 
 * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
   for Application testing & saleable portfolio expansion.
 
-Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
------------------------------------------------------------------
+### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 
 * Automated Python testing of the [Cisco TelePresence VCS] (Video Communication
   Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Inter-working
@@ -87,7 +84,7 @@ Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 * Mentor for new Quality Assurance hires.
 
 System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
-======================================================================
+----------------------------------------------------------------------
 
 * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
   USB/PCI/PCIe/SATA protocol analysers debugging.
