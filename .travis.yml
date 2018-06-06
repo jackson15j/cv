@@ -1,0 +1,16 @@
+sudo: required
+
+# https://docs.travis-ci.com/user/languages/cpp/
+# Since there is no Bash language support, using C++, since Travis does no
+# default installation.
+# FIXME: do a PDF building in a supported language.
+language: cpp
+
+services:
+  - docker
+
+before_install:
+  - docker pull jagregory/pandoc
+
+script:
+  - ./markdown_pdf.sh craig_astill_cv.md
