@@ -1,4 +1,7 @@
-Repo for Markdown files. created `markdown_pdf.sh` to generate PDF's via:
+My CV repo
+==========
+
+Use the following steps to generate a PDF:
 
 ```bash
 ./markdown_pdf.sh <file.md>
