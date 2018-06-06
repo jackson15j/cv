@@ -7,6 +7,8 @@ usage () {
     echo
     echo "Expectations:"
     echo
+    echo "* Docker installed; Pandoc + Latex = ~100 Haskell packages. Using:"
+    echo "    https://hub.docker.com/r/jagregory/pandoc/ instead."
     echo "* <file.md> - Markdown file to convert to pdf."
     echo
     echo "Usage:"
@@ -27,10 +29,12 @@ EXTENSION="${FULL_FILENAME##*.}"
 FILENAME="${FULL_FILENAME%.*}"
 
 # pandoc craig_astill_cv.md -o craig_astill_cv.pdf
-pandoc \
+docker run -v `pwd`:/source jagregory/pandoc \
     -V papersize:a4 \
     -V fontsize:10pt \
     -V geometry:margin=1in \
     -V title-meta:"${FILENAME}" \
     -V author-meta:"Craig Astill" \
     "${FULL_FILENAME}" -o "${FILENAME}.pdf"
+
+echo "Generated: ${FILENAME}.pdf"
