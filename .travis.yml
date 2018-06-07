@@ -15,12 +15,6 @@ before_install:
 script:
   - "./markdown_pdf.sh craig_astill_cv.md"
 
-before_deploy:
-  # Set up git user name and tag this commit
-  - git config --local user.name "Craig Astill"
-  - git config --local user.email "craigastill@gmail.com"
-  - git tag "$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)"
-
 deploy:
   provider: releases
   api_key:
@@ -28,5 +22,4 @@ deploy:
   file: craig_astill_cv.pdf
   skip_cleanup: true
   on:
-    repo: jackson15j/cv
-    branch: travis
+    tags: true
