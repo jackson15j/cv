@@ -3,13 +3,17 @@ Craig Astill
 
 Contact: +447834810193, craigastill@gmail.com
 
+Profile
+=======
+
 Pragmatic & practically-minded Software Developer / DevOps engineer with a
 strong Quality Assurance background. Cross skilled as a team lead, architect,
 mentor and process improvement evangelist. Capable of transitioning roles to
-further my team and to benefit the company.
+further my team and to benefit the company. Looking to put my experiences to
+good use to advance to the next level.
 
-Skills
-======
+Skills / Strengths
+==================
 
 * Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
   Agile, Mentoring.
@@ -26,10 +30,16 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   Spring Boot.
 * Spring Boot Application was deployed both to an internal Cisco cloud and to a
-  Google Kubernetes Cluster (the latter configured myself).
+  Google Kubernetes Cluster.
+* Managed senior developers & mentored the intern to develop features that
+  aligned with the architecture.
+* Filtered feature requests from the CTO office and Cloud Architecture
+  principal engineers into agile stories/tasks for the team.
 * Designed & implemented the Continuous Integration/Deployment pipeline for our
   application using Jenkins' declarative syntax, Maven and Docker.
 * Deployed internal test Tomcat servers via Ansible.
+* Automated deployment of our Google Kubernetes Cluster, from our offices
+  Gitlab CI. Our Jenkins CI then deployed the Docker artefact to that cluster.
 
 ### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 
@@ -89,8 +99,8 @@ System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
 * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
   USB/PCI/PCIe/SATA protocol analysers debugging.
 
-Prior Roles
-===========
+Previous Experience
+===================
 
 * Kitchen Supervisor: Pizza Hut (Sep 2000 - July 2006)
 * Sports Cameraman / IT Consultant: Outside Video Productions (Sept 1997 - July 2003)
@@ -99,6 +109,11 @@ Education
 =========
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
+* Continual Development training:
+  * Agile Bear: Scrum Master.
+  * VMWare: VSphere & VCenter Administration.
+  * Cisco: Security Training, CCNA, Java & Spring Boot, Advanced Python, C++,
+    Erlang.
 
 Interests
 =========
