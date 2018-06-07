@@ -27,7 +27,7 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
   Spring Boot.
 * Spring Boot Application was deployed both to an internal Cisco cloud and to a
   Google Kubernetes Cluster (the latter configured myself).
-* Design & implemented the Continuous Integration/Deployment pipeline for our
+* Designed & implemented the Continuous Integration/Deployment pipeline for our
   application using Jenkins' declarative syntax, Maven and Docker.
 * Deployed internal test Tomcat servers via Ansible.
 
