@@ -1,10 +1,8 @@
 sudo: required
 
-# https://docs.travis-ci.com/user/languages/cpp/
-# Since there is no Bash language support, using C++, since Travis does no
-# default installation.
-# FIXME: do a PDF building in a supported language.
-language: cpp
+# using the _yet to be documented_ `bash` language. Follow the links from:
+# https://github.com/travis-ci/travis-ci/issues/4895 for details.
+language: bash
 
 services:
   - docker
