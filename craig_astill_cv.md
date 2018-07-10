@@ -16,7 +16,7 @@ Skills / Strengths
 ==================
 
 * Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
-  Agile, Mentoring.
+  Selenium, Agile, Mentoring.
 * Additional: C++ 14, Groovy, Ansible, VMWare.
 
 Roles
@@ -65,6 +65,7 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 * Participated in Community meet ups to expand usage from our UK/Norway offices
   to be used globally by all products in the [Cisco Unified Communications]
   portfolio.
+* Investigated Selenium Grid versus our in-house test manager.
 
 ### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
@@ -83,6 +84,8 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 
 * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
   for Application testing & saleable portfolio expansion.
+* Deployed & Maintained Test infrastructure and VM's including CUCM, Selenium
+  RC and Tandberg Management Server.
 
 ### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 
@@ -92,6 +95,7 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
   Third Party portfolios.
 * Followed an Agile workflow after Scrum Master certification from AgileBear.
 * Mentor for new Quality Assurance hires.
+* WebUI testing via Selenium (Python bindings).
 
 System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
 ----------------------------------------------------------------------
