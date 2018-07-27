@@ -17,7 +17,7 @@ Skills / Strengths
 
 * Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
   Selenium, Agile, Mentoring.
-* Additional: C++ 14, Groovy, Ansible, VMWare.
+* Additional: C++ 14, C#, Groovy, Ansible, VMWare.
 
 Roles
 =====
@@ -118,6 +118,7 @@ Education
   * VMWare: VSphere & VCenter Administration.
   * Cisco: Security Training, CCNA, Java & Spring Boot, Advanced Python, C++,
     Erlang.
+  * Personal Development: C#
 
 Interests
 =========
