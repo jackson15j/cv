@@ -17,7 +17,7 @@ Skills / Strengths
 
 * Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
   Selenium, Agile, Mentoring.
-* Additional: C++ 14, C#, Groovy, Ansible, VMWare.
+* Additional: C++ 14, C#, Groovy, Ansible, VMWare. Python [flask].
 
 Roles
 =====
@@ -28,9 +28,10 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 ### Team Lead: Yet to be released Cloud Project (March 2017 - May 2018)
 
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
-  Spring Boot.
-* Spring Boot Application was deployed both to an internal Cisco cloud and to a
-  Google Kubernetes Cluster.
+  [Spring Boot], to Consume both internal and multiple 3rd Party API's and
+  provide a singular User API.
+* [Spring Boot] Application was deployed both to an internal Cisco cloud and to
+  a Google Kubernetes Cluster.
 * Managed senior developers & mentored the intern to develop features that
   aligned with the architecture.
 * Filtered feature requests from the CTO office and Cloud Architecture
@@ -46,6 +47,8 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 * C++ 14 developer for the [Cisco TelePresence VCS] project doing feature
   development on internal/external protocols, such as: SIP, H323, Multi-stream
   and Secure iX Transport support.
+* Refactored the legacy codebase to provide inter-component and external
+  private/public REST API's.
 * Documented & reviewed _"per-developer"_ process during transitioning the
   codebase from SVN to Git (Bitbucket based) and our issue tracker from
   Bugzilla to Jira. Codebase had ~180 active committers globally.
@@ -59,7 +62,9 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 ### Software Developer: Test framework work (2011 - 2017)
 
 * Actively involved in the design & development of our in-house Python/Twisted
-  based testing framework for all API/SSH/CLI/Web driven TelePresence products.
+  based testing framework for all API/SSH/CLI/Web driven TelePresence
+  products. Example libraries used for API consumption include (but not limited
+  to): [Requests], [urllib], [Paramiko], [BeautifulSoup].
 * Added support for multiple global teams products before handing off to those
   respective teams.
 * Participated in Community meet ups to expand usage from our UK/Norway offices
@@ -76,9 +81,9 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 * Automated Python based testing with further development work of our in-house
   Python/Twisted test framework.
 * Python/Twisted based feature development with Erlang at the transaction
-  layer.
+  layer and [flask] as the provider of the REST API.
 * Instilled a "QA first" viewpoint in our Agile planning sessions to reduce
-  development issues.
+  development issues and combat _"Waterfall"_ in Agile Sprints.
 
 ### Lab Technician (Jan 2010 - March 2011)
 
@@ -116,7 +121,7 @@ Education
 * Continual Development training:
   * Agile Bear: Scrum Master.
   * VMWare: VSphere & VCenter Administration.
-  * Cisco: Security Training, CCNA, Java & Spring Boot, Advanced Python, C++,
+  * Cisco: Security Training, CCNA, Java & [Spring Boot], Advanced Python, C++,
     Erlang.
 * Personal Development:
   * C# (Aim: Branching out of Linux backend development to learn part of the
@@ -137,3 +142,11 @@ Interests
 [Cisco TelePresence MCU]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-mcu-mse-series/index.html
 [Cisco TelePresence Server]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-server/index.html
 [Cisco Unified Communications]: https://www.cisco.com/c/en/us/products/unified-communications/index.html
+
+[BeautifulSoup]: https://www.crummy.com/software/BeautifulSoup/
+[Requests]: http://docs.python-requests.org/en/latest/
+[Paramiko]: http://www.paramiko.org
+[urllib]: https://docs.python.org/3/library/urllib.html
+[flask]: https://github.com/pallets/flask/
+
+[Spring Boot]: http://spring.io/projects/spring-framework
