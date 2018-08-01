@@ -26,15 +26,12 @@ fi
 FILEPATH=$1
 FULL_FILENAME=$(basename "$FILEPATH")
 EXTENSION="${FULL_FILENAME##*.}"
-FILENAME="${FULL_FILENAME%.*}"
+FILENAME="${FULL_FILENAME%.*}"  # strip off extension.
+TITLE="${FILENAME//_/ }"  # Swap underscores for spaces.
 
 # pandoc craig_astill_cv.md -o craig_astill_cv.pdf
 docker run -v `pwd`:/source jagregory/pandoc \
-    -V papersize:a4 \
-    -V fontsize:10pt \
-    -V geometry:margin=1in \
-    -V title-meta:"${FILENAME}" \
-    -V author-meta:"Craig Astill" \
-    "${FULL_FILENAME}" -o "${FILENAME}.pdf"
+    -V title-meta:"${TITLE}" \
+    "${FULL_FILENAME}" layout.yaml -o "${FILENAME}.pdf"
 
 echo "Generated: ${FILENAME}.pdf"
