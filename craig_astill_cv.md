@@ -19,11 +19,8 @@ Skills / Strengths
   Selenium, Agile, Mentoring.
 * Additional: C++ 14, C#, Groovy, Ansible, VMWare. Python [flask].
 
-Roles
-=====
-
-Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
--------------------------------------------------------------------
+Software Developer / Quality Assurance: Cisco (2008 - 2018)
+===========================================================
 
 ### Team Lead: Yet to be released Cloud Project (March 2017 - May 2018)
 
@@ -102,15 +99,12 @@ Software Developer / Quality Assurance: Cisco (Aug 2008 - May 2018)
 * Mentor for new Quality Assurance hires.
 * WebUI testing via Selenium (Python bindings).
 
-System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
-----------------------------------------------------------------------
-
-* Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
-  USB/PCI/PCIe/SATA protocol analysers debugging.
-
 Previous Experience
 ===================
 
+* System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
+    * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
+	  USB/PCI/PCIe/SATA protocol analysers debugging.
 * Kitchen Supervisor: Pizza Hut (Sep 2000 - July 2006)
 * Sports Cameraman / IT Consultant: Outside Video Productions (Sept 1997 - July 2003)
 
@@ -119,15 +113,14 @@ Education
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
 * Continual Development training:
-  * Agile Bear: Scrum Master.
-  * VMWare: VSphere & VCenter Administration.
-  * Cisco: Security Training, CCNA, Java & [Spring Boot], Advanced Python, C++,
-    Erlang.
+    * Agile Bear: Scrum Master.
+    * VMWare: VSphere & VCenter Administration.
+    * Cisco: Security Training, CCNA, Java & [Spring Boot], Advanced Python,
+      C++, Erlang.
 * Personal Development:
-  * C# (Aim: Branching out of Linux backend development to learn part of the
-    Windows Application/Web tech stack).
-  * Tech talks.
-  * Conferences: Euro Python.
+    * C# (Aim: Investigating/Compare the Windows Application/Web tech stack
+      against my Linux backend experience).
+    * Tech talks & Conferences (Euro Python).
 
 Interests
 =========
