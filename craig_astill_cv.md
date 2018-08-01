@@ -118,7 +118,11 @@ Education
   * VMWare: VSphere & VCenter Administration.
   * Cisco: Security Training, CCNA, Java & Spring Boot, Advanced Python, C++,
     Erlang.
-  * Personal Development: C#
+* Personal Development:
+  * C# (Aim: Branching out of Linux backend development to learn part of the
+    Windows Application/Web tech stack).
+  * Tech talks.
+  * Conferences: Euro Python.
 
 Interests
 =========
