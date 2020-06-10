@@ -15,9 +15,31 @@ good use to advance to the next level.
 Skills / Strengths
 ==================
 
-* Core: Python/Twisted, Java 8/Spring Boot, DevOps, Docker, Jenkins, Linux,
-  Selenium, Agile, Mentoring.
-* Additional: C++ 14, C#, Groovy, Ansible, VMWare. Python [flask].
+* Core: Python (Flask/Tornado), JavaScript, DevOps, AWS (boto3), Docker, CI
+  (Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused Development,
+  Architecture & Design, Process Improvement, Team Lead.
+* Additional: C++, C#, Java/Spring Boot, Groovy, Ansible, VMWare,
+  Python (Twisted/Selenium).
+
+Senior Software Developer: [Clinithink] (2018 - Present)
+======================================================
+
+* Team Lead for CLiX exchange (AWS (boto3) hosted Python/JavaScript server
+  component with NLP domain resources, account/client management).
+* Develop on both CLiX exchange and CliX insight (Python/Javascript client
+  component of Medical document store, NLP encoding/abstraction via a C++ NLP
+  core).
+* Mentoring & knowledge transfer: Real World skills (maintaining legacy code,
+  debugging, discovering design, team communication), documentation,
+  presentations, Bi-directional buddy coding.
+* Automated testing: QA mindset, How to put legacy code under test, TDD.
+* Shorten feedback loop: MVP (focus), early
+  refinement/planning/test-involvement, push pro-active behaviour.
+* Raise Quality: Component ownership, Engineering Direction, Trends monitoring.
+* Challenging obstacles in Companies move from Start Up to Enterprise.
+* Prototyping: AWS hosted Customer site-site VPN, AWS hosted CI
+  (Jenkins/Gitlab), concepts for PO (Product Owner) refinement, Ansible vs
+  boto3 for AWS deployments.
 
 Software Developer / Quality Assurance: Cisco (2008 - 2018)
 ===========================================================
@@ -54,7 +76,7 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   syntax + Job DSL under version control.
 * Involved in a development best practices group. My output included
   improvement drives in: documentation (Doxygen/Sphinx), componentisation for
-  testability and QA/PO (Product Owner) presence during planning.
+  testability and QA/PO presence during planning.
 
 ### Software Developer: Test framework work (2011 - 2017)
 
@@ -104,9 +126,10 @@ Previous Experience
 
 * System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
     * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
-	  USB/PCI/PCIe/SATA protocol analysers debugging.
+      USB/PCI/PCIe/SATA protocol analysers debugging.
 * Kitchen Supervisor: Pizza Hut (Sep 2000 - July 2006)
-* Sports Cameraman / IT Consultant: Outside Video Productions (Sept 1997 - July 2003)
+* Sports Cameraman / IT Consultant: Outside Video Productions (Sept 1997 - July
+  2003)
 
 Education
 =========
@@ -120,7 +143,7 @@ Education
 * Personal Development:
     * C# (Aim: Investigating/Compare the Windows Application/Web tech stack
       against my Linux backend experience).
-    * Tech talks & Conferences (Euro Python).
+    * Tech talks & Conferences (Cloud Native Wales, Velocity, Euro Python).
 
 Interests
 =========
@@ -129,6 +152,8 @@ Interests
 * Previously: Ice Hockey (professional), Kung Fu (1st Dan Brown), Karate
   (Blue).
 
+
+[Clinithink]: https://www.clinithink.com
 
 [Cisco TelePresence VCS]: https://www.cisco.com/c/en/us/products/unified-communications/telepresence-video-communication-server-vcs/index.html
 [Cisco TelePresence Conductor]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-conductor/index.html
