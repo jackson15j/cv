@@ -6,23 +6,37 @@ Contact: +447834810193, craigastill@gmail.com
 Profile
 =======
 
-Pragmatic & practically-minded Software Developer / DevOps engineer with a
-strong Quality Assurance background. Cross skilled as a team lead, architect,
-mentor and process improvement evangelist. Capable of transitioning roles to
-further my team and to benefit the company. Looking to put my experiences to
-good use to advance to the next level.
+Pragmatic & practically-minded Technical Lead with over 15 years of Software
+Development, DevOps & Quality Assurance roles in both large Corporations and
+Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
+improvement evangelist. Looking to put my experiences to good use to multiply
+the work of my colleagues/reports as well as continue progressing along the
+technical track to Architect.
 
 Skills / Strengths
 ==================
 
-* Core: Python (Flask/Tornado), JavaScript, DevOps, AWS (boto3), Docker, CI
-  (Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused Development,
-  Architecture & Design, Process Improvement, Team Lead.
+* Core: Python (Flask/Tornado/Django), JavaScript (React), DevOps, AWS (boto3),
+  Docker, CI (Azure DevOps/Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused
+  Development, Architecture & Design, Tech Lead, Process Improvement, Team
+  Lead.
 * Additional: C++, C#, Java/Spring Boot, Groovy, Ansible, VMWare,
-  Python (Twisted/Selenium).
+  Python (Twisted/Selenium), Travis, NLP (Natural Language Processing).
 
-Senior Software Developer: [Clinithink] (2018 - Present)
-======================================================
+Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
+====================================================================
+
+### Tech Lead: (June 2021 - Present)
+
+* Tech Lead on a new (unreleased) Medical NLP product (and Team) to compliment
+  the Companies new portfolio.
+* Worked in the Architecture Team to design & implement the core
+  libraries/modules for the new portfolio of products (C++ NLP core, Django
+  backend, React frontend).
+* Led the internal migration from Gitlab/Taiga/Jenkins to Azure DevOps.
+* Additional roles: Mentoring, interviews, Team Lead.
+
+### Senior Software Developer: (2018 - June 2021)
 
 * Team Lead for legacy & new portfolio Medical NLP products:
     * Legacy Stack: C++ NLP core, Python (flask/tornado) backend, Javascript
@@ -138,7 +152,7 @@ Education
 Interests
 =========
 
-* Current: Cycling, photography, https://github.com/jackson15j
+* Current: Cycling, photography, Welsh language, https://github.com/jackson15j
 * Previously: Ice Hockey (professional), Kung Fu (1st Dan Brown), Karate
   (Blue).
 
