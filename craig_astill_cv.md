@@ -29,10 +29,11 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
 ### Tech Lead: (June 2021 - Present)
 
 * Tech Lead on a new (unreleased) Medical NLP product (and Team) to compliment
-  the Companies new portfolio.
+  the Companies new portfolio (Exposing narrative from EMR (Electronic Medical
+  Records) and coding it against the [Snomed) standard with additional Temporal
+  & Relational context).
 * Worked in the Architecture Team to design & implement the core
-  libraries/modules for the new portfolio of products (C++ NLP core, Django
-  backend, React frontend).
+  libraries/modules for the new portfolio of products.
 * Led the internal migration from Gitlab/Taiga/Jenkins to Azure DevOps.
 * Additional roles: Mentoring, interviews, Team Lead.
 
@@ -96,7 +97,7 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 * Participated in Community meet ups to expand usage from our UK/Norway offices
   to be used globally by all products in the [Cisco Unified Communications]
   portfolio.
-* Investigated Selenium Grid versus our in-house test manager.
+* Investigated Selenium Grid versus our in-house Test/Device Manager.
 
 ### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
@@ -104,12 +105,9 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   TelePresence Conductor] (load balancer product) for the [Cisco TelePresence
   MCU] and [Cisco TelePresence Server] to enable efficient use of geo-located
   Conference resources.
-* Automated Python based testing with further development work of our in-house
-  Python/Twisted test framework.
-* Python/Twisted based feature development with Erlang at the transaction
-  layer and [flask] as the provider of the REST API.
-* Instilled a "QA first" viewpoint in our Agile planning sessions to reduce
-  development issues and combat _"Waterfall"_ in Agile Sprints.
+* Tech Stack: Python (Twisted/[flask]) / Erlang backend, PHP frontend, in-house
+  Python test framework.
+* TDD/Agile evangelist.
 
 ### Lab Technician (Jan 2010 - March 2011)
 
@@ -140,24 +138,26 @@ Education
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
 * Continual Development training:
+    * Pat Kua: Tech Lead.
     * Agile Bear: Scrum Master.
     * VMWare: VSphere & VCenter Administration.
     * Cisco: Security Training, CCNA, Java & [Spring Boot], Advanced Python,
       C++, Erlang.
 * Personal Development:
-    * C# (Aim: Investigating/Compare the Windows Application/Web tech stack
-      against my Linux backend experience).
+    * Rust/c/C# - Open Source project contributions and self-education.
     * Tech talks & Conferences (Cloud Native Wales, Velocity, Euro Python).
+    * Learning Welsh.
 
 Interests
 =========
 
-* Current: Cycling, photography, Welsh language, https://github.com/jackson15j
+* Current: Cycling, photography, https://github.com/jackson15j
 * Previously: Ice Hockey (professional), Kung Fu (1st Dan Brown), Karate
   (Blue).
 
 
 [Clinithink]: https://www.clinithink.com
+[Snomed]: https://www.snomed.org
 
 [Cisco TelePresence VCS]: https://www.cisco.com/c/en/us/products/unified-communications/telepresence-video-communication-server-vcs/index.html
 [Cisco TelePresence Conductor]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-conductor/index.html
