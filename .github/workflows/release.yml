@@ -1,0 +1,23 @@
+name: Release
+
+on:
+  push:
+    tags:
+    - '*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get pandoc docker image
+        run: docker pull jagregory/pandoc
+
+      - name: Generate PDF
+        run: ./markdown_pdf.sh craig_astill_cv.md
+
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "*.pdf"
+          token: ${{ secrets.GITHUB_TOKEN }}
