@@ -1,7 +1,7 @@
 My CV repo
 ==========
 
-[![Build Status](https://travis-ci.org/jackson15j/cv.svg?branch=master)](https://travis-ci.org/jackson15j/cv)
+[![Build Status](https://app.travis-ci.com/jackson15j/cv.svg?branch=master)](https://app.travis-ci.com/github/jackson15j/cv)
 
 Check the [Releases](https://github.com/jackson15j/cv/releases) tab for my
 latest generated CV PDF. These are only generated on tagged commits.
