@@ -24,22 +24,16 @@ Skills / Strengths
 Senior Software Developer: [Clinithink] (2018 - Present)
 ======================================================
 
-* Team Lead for CLiX exchange (AWS (boto3) hosted Python/JavaScript server
-  component with NLP domain resources, account/client management).
-* Develop on both CLiX exchange and CliX insight (Python/Javascript client
-  component of Medical document store, NLP encoding/abstraction via a C++ NLP
-  core).
-* Mentoring & knowledge transfer: Real World skills (maintaining legacy code,
-  debugging, discovering design, team communication), documentation,
-  presentations, Bi-directional buddy coding.
-* Automated testing: QA mindset, How to put legacy code under test, TDD.
-* Shorten feedback loop: MVP (focus), early
-  refinement/planning/test-involvement, push pro-active behaviour.
-* Raise Quality: Component ownership, Engineering Direction, Trends monitoring.
-* Challenging obstacles in Companies move from Start Up to Enterprise.
-* Prototyping: AWS hosted Customer site-site VPN, AWS hosted CI
-  (Jenkins/Gitlab), concepts for PO (Product Owner) refinement, Ansible vs
-  boto3 for AWS deployments.
+* Team Lead for legacy & new portfolio Medical NLP products:
+    * Legacy Stack: C++ NLP core, Python (flask/tornado) backend, Javascript
+      (Angular) frontend, AWS (boto3) deployment.
+    * New Stack: C++ NLP core, Django backend, React frontend.
+* Remit to: _"Define steps to transition Engineering Team from Start-Up to
+  Enterprise processes of working."_:
+    * Led Mentoring & knowledge transfer sessions.
+    * Education on how to: _"shorten the feedback loop"_, to increase
+      productivity.
+    * Education on De-Risking changes.
 
 Software Developer / Quality Assurance: Cisco (2008 - 2018)
 ===========================================================
@@ -63,9 +57,10 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 
 ### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 
-* C++ 14 developer for the [Cisco TelePresence VCS] project doing feature
-  development on internal/external protocols, such as: SIP, H323, Multi-stream
-  and Secure iX Transport support.
+* C++ 14 developer for the [Cisco TelePresence VCS] (Video Communication
+  Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server for
+  TelePresence) project doing feature development on internal/external
+  protocols, such as: SIP, H323, Multi-stream and Secure iX Transport support.
 * Refactored the legacy codebase to provide inter-component and external
   private/public REST API's.
 * Documented & reviewed _"per-developer"_ process during transitioning the
@@ -84,8 +79,6 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   based testing framework for all API/SSH/CLI/Web driven TelePresence
   products. Example libraries used for API consumption include (but not limited
   to): [Requests], [urllib], [Paramiko], [BeautifulSoup].
-* Added support for multiple global teams products before handing off to those
-  respective teams.
 * Participated in Community meet ups to expand usage from our UK/Norway offices
   to be used globally by all products in the [Cisco Unified Communications]
   portfolio.
@@ -93,10 +86,10 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 
 ### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
-* Transitioned from Quality Assurance to Software Engineer on the
-  [Cisco TelePresence Conductor] product, which was a load balancer for the
-  [Cisco TelePresence MCU] and [Cisco TelePresence Server] to enable efficient
-  use of geo-located Conference resources.
+* Transitioned from Quality Assurance to Software Engineer on the [Cisco
+  TelePresence Conductor] (load balancer product) for the [Cisco TelePresence
+  MCU] and [Cisco TelePresence Server] to enable efficient use of geo-located
+  Conference resources.
 * Automated Python based testing with further development work of our in-house
   Python/Twisted test framework.
 * Python/Twisted based feature development with Erlang at the transaction
@@ -113,13 +106,10 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 
 ### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 
-* Automated Python testing of the [Cisco TelePresence VCS] (Video Communication
-  Server) which is a Proxy/Gateway/Firewall Traversal/Protocol Inter-working
-  server for TelePresence products in the [Cisco Unified Communications] &
-  Third Party portfolios.
+* Automated Python testing of the [Cisco TelePresence VCS] and WebUI testing
+  via Selenium.
 * Followed an Agile workflow after Scrum Master certification from AgileBear.
 * Mentor for new Quality Assurance hires.
-* WebUI testing via Selenium (Python bindings).
 
 Previous Experience
 ===================
