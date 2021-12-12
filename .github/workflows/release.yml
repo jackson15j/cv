@@ -1,9 +1,6 @@
 name: Release
 
 on:
-  workflow_run:
-    workflows: ["Build"]
-    types: [completed]
   pull_request:
     branches: [ master ]
   # push:
@@ -13,12 +10,15 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
-      - uses: actions/download-artifact@master
-        with:
-          name: pdf-cv
-          path: craig_astill_cv.pdf
+      - uses: actions/checkout@v2
+
+      - name: Get pandoc docker image
+        run: docker pull jagregory/pandoc
+
+      - name: Generate PDF
+        run: ./markdown_pdf.sh craig_astill_cv.md
+
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "*.pdf"
