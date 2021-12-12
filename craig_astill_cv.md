@@ -6,7 +6,7 @@ Contact: +447834810193, craigastill@gmail.com
 Profile
 -------
 
-Pragmatic & practically-minded Technical Lead with over 15 years of Software
+Pragmatic & practically-minded Technical Leader with over 15 years of Software
 Development, DevOps & Quality Assurance roles in both large Corporations and
 Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
 improvement evangelist. Looking to put my experiences to good use to multiply
@@ -20,7 +20,7 @@ Skills / Strengths
   Docker, CI (Azure DevOps/Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused
   Development, Architecture & Design, Tech Lead, Process Improvement, Team
   Lead.
-* Additional: C++, C#, Java/Spring Boot, Groovy, Ansible, VMWare,
+* Additional: C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
   Python (Twisted/Selenium), Travis, NLP (Natural Language Processing).
 
 Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
@@ -58,46 +58,30 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   [Spring Boot], to Consume both internal and multiple 3rd Party API's and
   provide a singular User API.
-* [Spring Boot] Application was deployed both to an internal Cisco cloud and to
-  a Google Kubernetes Cluster.
-* Managed senior developers & mentored the intern to develop features that
-  aligned with the architecture.
-* Filtered feature requests from the CTO office and Cloud Architecture
-  principal engineers into agile stories/tasks for the team.
-* Designed & implemented the Continuous Integration/Deployment pipeline for our
-  application using Jenkins' declarative syntax, Maven and Docker.
-* Deployed internal test Tomcat servers via Ansible.
-* Automated deployment of our Google Kubernetes Cluster, from our offices
-  Gitlab CI. Our Jenkins CI then deployed the Docker artefact to that cluster.
+* Tech Stack: Java 8 [Spring Boot], docker, Tomcat, Gitlab, Ansible,
+  Jenkins. Deployments: In-House cloud & Google Kubernetes Cluster.
+* Tech Lead role between the CTO office, Cloud Architecture Principal Engineers
+  and PO.
 
-
-* C++ 14 developer for the [Cisco TelePresence VCS] (Video Communication
-  Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server for
 #### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
+
+* C++ developer for the [Cisco TelePresence VCS] (Video Communication Server)
+  (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server for
   TelePresence) project doing feature development on internal/external
   protocols, such as: SIP, H323, Multi-stream and Secure iX Transport support.
-* Refactored the legacy codebase to provide inter-component and external
-  private/public REST API's.
-* Documented & reviewed _"per-developer"_ process during transitioning the
-  codebase from SVN to Git (Bitbucket based) and our issue tracker from
-  Bugzilla to Jira. Codebase had ~180 active committers globally.
-* Migrated several test framework & product code Continuous Integration
-  pipelines from poorly maintained manual Jenkins jobs to Jenkins' scripted
-  syntax + Job DSL under version control.
-* Involved in a development best practices group. My output included
-  improvement drives in: documentation (Doxygen/Sphinx), componentisation for
-  testability and QA/PO presence during planning.
+* Involved in tooling migrations: SVN to Git (Bitbucket based), Bugzilla to
+  Jira, Jenkins manual jobs to CI as code.
+* Involved in a Development Best Practices group, to increase productivity and
+  knowledge sharing.
 
 #### Software Developer: Test framework work (2011 - 2017)
 
 * Actively involved in the design & development of our in-house Python/Twisted
   based testing framework for all API/SSH/CLI/Web driven TelePresence
-  products. Example libraries used for API consumption include (but not limited
-  to): [Requests], [urllib], [Paramiko], [BeautifulSoup].
-* Participated in Community meet ups to expand usage from our UK/Norway offices
-  to be used globally by all products in the [Cisco Unified Communications]
+  products.
+* Participated in Community meet ups & promotion to expand usage from the
+  UK/Norway offices to all products in the [Cisco Unified Communications]
   portfolio.
-* Investigated Selenium Grid versus our in-house Test/Device Manager.
 
 #### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
@@ -107,7 +91,6 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   Conference resources.
 * Tech Stack: Python (Twisted/[flask]) / Erlang backend, PHP frontend, in-house
   Python test framework.
-* TDD/Agile evangelist.
 
 #### Lab Technician (Jan 2010 - March 2011)
 
@@ -120,7 +103,6 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 
 * Automated Python testing of the [Cisco TelePresence VCS] and WebUI testing
   via Selenium.
-* Followed an Agile workflow after Scrum Master certification from AgileBear.
 * Mentor for new Quality Assurance hires.
 
 Previous Experience
@@ -137,16 +119,13 @@ Education
 ---------
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
-* Continual Development training:
-    * Pat Kua: Tech Lead.
-    * Agile Bear: Scrum Master.
-    * VMWare: VSphere & VCenter Administration.
-    * Cisco: Security Training, CCNA, Java & [Spring Boot], Advanced Python,
-      C++, Erlang.
+* Role Training: Tech Lead ([Pat Kua]), Scrum Master ([Agile Bear]).
+* Skills Training: VSphere & VCenter Administration (VMware), CCNA & Security
+  Training (Cisco).
 * Personal Development:
     * Rust/c/C# - Open Source project contributions and self-education.
     * Tech talks & Conferences (Cloud Native Wales, Velocity, Euro Python).
-    * Learning Welsh.
+    * Welsh.
 
 Interests
 ---------
@@ -172,3 +151,5 @@ Interests
 [flask]: https://github.com/pallets/flask/
 
 [Spring Boot]: http://spring.io/projects/spring-framework
+[Pat Kua]: https://www.patkua.com
+[Agile Bear]: https://agilebear.com
