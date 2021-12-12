@@ -1,0 +1,20 @@
+name: Release
+
+on:
+  push:
+    tags:
+    - '*'
+
+jobs:
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: pdf-cv
+          path: craig_astill_cv.pdf
+      - uses: ncipollo/release-action@v1
+        with:
+          artifacts: "*.pdf"
+          token: ${{ secrets.GITHUB_TOKEN }}
