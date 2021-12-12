@@ -17,9 +17,9 @@ Skills / Strengths
 ------------------
 
 * Core: Python (Flask/Tornado/Django), JavaScript (React), DevOps, AWS (boto3),
-  Docker, CI (Azure DevOps/Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused
-  Development, Architecture & Design, Tech Lead, Process Improvement, Team
-  Lead.
+  Docker, CI (Azure DevOps/Jenkins/Gitlab/Github), Linux, Agile, Mentoring,
+  QA-Focused Development, Architecture & Design, Tech Lead, Process
+  Improvement, Team Lead.
 * Additional: C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
   Python (Twisted/Selenium), Travis, NLP (Natural Language Processing).
 
