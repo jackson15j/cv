@@ -1,10 +1,10 @@
 Craig Astill
-============
+------------
 
 Contact: +447834810193, craigastill@gmail.com
 
 Profile
-=======
+-------
 
 Pragmatic & practically-minded Technical Lead with over 15 years of Software
 Development, DevOps & Quality Assurance roles in both large Corporations and
@@ -14,7 +14,7 @@ the work of my colleagues/reports as well as continue progressing along the
 technical track to Architect.
 
 Skills / Strengths
-==================
+------------------
 
 * Core: Python (Flask/Tornado/Django), JavaScript (React), DevOps, AWS (boto3),
   Docker, CI (Azure DevOps/Jenkins/Gitlab), Linux, Agile, Mentoring, QA-Focused
@@ -24,9 +24,9 @@ Skills / Strengths
   Python (Twisted/Selenium), Travis, NLP (Natural Language Processing).
 
 Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
-====================================================================
+--------------------------------------------------------------------
 
-### Tech Lead: (June 2021 - Present)
+#### Tech Lead: (June 2021 - Present)
 
 * Tech Lead on a new (unreleased) Medical NLP product (and Team) to compliment
   the Companies new portfolio (Exposing narrative from EMR (Electronic Medical
@@ -37,7 +37,7 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
 * Led the internal migration from Gitlab/Taiga/Jenkins to Azure DevOps.
 * Additional roles: Mentoring, interviews, Team Lead.
 
-### Senior Software Developer: (2018 - June 2021)
+#### Senior Software Developer: (2018 - June 2021)
 
 * Team Lead for legacy & new portfolio Medical NLP products:
     * Legacy Stack: C++ NLP core, Python (flask/tornado) backend, Javascript
@@ -51,9 +51,9 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
     * Education on De-Risking changes.
 
 Software Developer / Quality Assurance: Cisco (2008 - 2018)
-===========================================================
+-----------------------------------------------------------
 
-### Team Lead: Yet to be released Cloud Project (March 2017 - May 2018)
+#### Team Lead: Yet to be released Cloud Project (March 2017 - May 2018)
 
 * Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
   [Spring Boot], to Consume both internal and multiple 3rd Party API's and
@@ -70,10 +70,10 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 * Automated deployment of our Google Kubernetes Cluster, from our offices
   Gitlab CI. Our Jenkins CI then deployed the Docker artefact to that cluster.
 
-### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
 
 * C++ 14 developer for the [Cisco TelePresence VCS] (Video Communication
   Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server for
+#### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
   TelePresence) project doing feature development on internal/external
   protocols, such as: SIP, H323, Multi-stream and Secure iX Transport support.
 * Refactored the legacy codebase to provide inter-component and external
@@ -88,7 +88,7 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   improvement drives in: documentation (Doxygen/Sphinx), componentisation for
   testability and QA/PO presence during planning.
 
-### Software Developer: Test framework work (2011 - 2017)
+#### Software Developer: Test framework work (2011 - 2017)
 
 * Actively involved in the design & development of our in-house Python/Twisted
   based testing framework for all API/SSH/CLI/Web driven TelePresence
@@ -99,7 +99,7 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   portfolio.
 * Investigated Selenium Grid versus our in-house Test/Device Manager.
 
-### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
+#### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
 
 * Transitioned from Quality Assurance to Software Engineer on the [Cisco
   TelePresence Conductor] (load balancer product) for the [Cisco TelePresence
@@ -109,14 +109,14 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
   Python test framework.
 * TDD/Agile evangelist.
 
-### Lab Technician (Jan 2010 - March 2011)
+#### Lab Technician (Jan 2010 - March 2011)
 
 * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
   for Application testing & saleable portfolio expansion.
 * Deployed & Maintained Test infrastructure and VM's including CUCM, Selenium
   RC and Tandberg Management Server.
 
-### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
+#### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
 
 * Automated Python testing of the [Cisco TelePresence VCS] and WebUI testing
   via Selenium.
@@ -124,7 +124,7 @@ Software Developer / Quality Assurance: Cisco (2008 - 2018)
 * Mentor for new Quality Assurance hires.
 
 Previous Experience
-===================
+-------------------
 
 * System Test Engineer: Oxford Semiconductor Ltd (April 2006 - Aug 2008)
     * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
@@ -134,7 +134,7 @@ Previous Experience
   2003)
 
 Education
-=========
+---------
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
 * Continual Development training:
@@ -149,7 +149,7 @@ Education
     * Learning Welsh.
 
 Interests
-=========
+---------
 
 * Current: Cycling, photography, https://github.com/jackson15j
 * Previously: Ice Hockey (professional), Kung Fu (1st Dan Brown), Karate
