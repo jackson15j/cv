@@ -30,7 +30,7 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
 
 * Tech Lead on a new (unreleased) Medical NLP product (and Team) to compliment
   the Companies new portfolio (Exposing narrative from EMR (Electronic Medical
-  Records) and coding it against the [Snomed) standard with additional Temporal
+  Records) and coding it against the [Snomed] standard with additional Temporal
   & Relational context).
 * Worked in the Architecture Team to design & implement the core
   libraries/modules for the new portfolio of products.
