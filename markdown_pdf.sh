@@ -8,7 +8,7 @@ usage () {
     echo "Expectations:"
     echo
     echo "* Docker installed; Pandoc + Latex = ~100 Haskell packages. Using:"
-    echo "    https://hub.docker.com/r/jagregory/pandoc/ instead."
+    echo "    https://hub.docker.com/r/pandoc/latex instead."
     echo "* <file.md> - Markdown file to convert to pdf."
     echo
     echo "Usage:"
@@ -30,8 +30,7 @@ FILENAME="${FULL_FILENAME%.*}"  # strip off extension.
 TITLE="${FILENAME//_/ }"  # Swap underscores for spaces.
 
 # pandoc craig_astill_cv.md -o craig_astill_cv.pdf
-docker run -v `pwd`:/source jagregory/pandoc \
-    -V title-meta:"${TITLE}" \
-    "${FULL_FILENAME}" layout.yaml -o "${FILENAME}.pdf"
+docker run -v "$(pwd):/data" --user $(id -u):$(id -g) pandoc/latex \
+    "${FULL_FILENAME}" metadata.yaml layout.yaml -o "${FILENAME}.pdf"
 
 echo "Generated: ${FILENAME}.pdf"
