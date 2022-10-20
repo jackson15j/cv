@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Get pandoc docker image
-        run: docker pull jagregory/pandoc
+        run: docker pull pandoc/latex
 
       - name: Generate PDF
         run: ./markdown_pdf.sh craig_astill_cv.md
