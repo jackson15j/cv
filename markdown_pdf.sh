@@ -31,7 +31,6 @@ TITLE="${FILENAME//_/ }"  # Swap underscores for spaces.
 
 # pandoc craig_astill_cv.md -o craig_astill_cv.pdf
 docker run -v "$(pwd):/data" --user $(id -u):$(id -g) pandoc/latex \
-    -V title-meta:"${TITLE}" \
-    "${FULL_FILENAME}" layout.yaml -o "${FILENAME}.pdf"
+    "${FULL_FILENAME}" metadata.yaml layout.yaml -o "${FILENAME}.pdf"
 
 echo "Generated: ${FILENAME}.pdf"
