@@ -10,12 +10,13 @@ latest generated CV PDF. These are only generated on tagged commits.
 Manual PDF generation
 ---------------------
 
-Use the following steps to generate a PDF:
+Use [Task] ([Task: Installation]) as the task runner to generate a PDF:
 
 ```bash
-./markdown_pdf.sh <file.md>
-# generates: <file.pdf>.
+[go-]task generate-pdf
 ```
+
+**NOTE:** Some OS's install Task as: `go-task`.
 
 Interview Questions
 -------------------
@@ -58,6 +59,8 @@ Company questions:
 * How do you motivate employees?
 * Why should I leave my current job for you?
 
+[Task]: https://taskfile.dev/
+[Task: Installation]: https://taskfile.dev/installation/
 
 [Gov UK: Flexible Working]: https://www.gov.uk/flexible-working
 [Gov UK: Maximum weekly working hours]: https://www.gov.uk/maximum-weekly-working-hours

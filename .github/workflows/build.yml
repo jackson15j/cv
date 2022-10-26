@@ -28,11 +28,11 @@ jobs:
       # access it
       - uses: actions/checkout@v2
 
-      - name: Get pandoc docker image
-        run: docker pull pandoc/latex
+      - name: Install Task
+        uses: arduino/setup-task@v1
 
       - name: Generate PDF
-        run: ./markdown_pdf.sh craig_astill_cv.md
+        run: task generate-pdf
 
       - name: Debug repo.
         run: ls -al
