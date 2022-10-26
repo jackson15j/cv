@@ -1,0 +1,30 @@
+# https://taskfile.dev
+version: '3'
+
+output: prefixed
+
+vars:
+  DOCKER_IMAGE: pandoc/latex
+
+tasks:
+  docker-pull:
+    internal: true
+    cmds:
+      - docker pull {{.DOCKER_IMAGE}}
+
+  generate-pdf:
+    deps:
+      - docker-pull
+    summary: |
+      Generate my CV
+
+      This task will pull down the latest pandoc docker image and use that to
+      generate a new CV PDF.
+    cmds:
+      - docker run -v "$(pwd):/data" --user $(id -u):$(id -g) {{.DOCKER_IMAGE}} craig_astill_cv.md metadata.yaml layout.yaml -o craig_astill_cv.pdf
+      - echo "Generated PDF"
+    sources:
+      - craig_astill_cv.md
+      - ./*.yaml
+    generates:
+      - craig_astill_cv.pdf
