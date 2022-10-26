@@ -3,7 +3,7 @@ Craig Astill
 
 Contact: [+447834810193], [craigastill@gmail.com]
 
-Pragmatic Technical Leader with over 15 years of experience in Software
+Pragmatic Technical Leader with over 17 years of experience in Software
 Development, DevOps & Quality Assurance roles in both large Corporations and
 Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
 improvement evangelist. Looking for an opportunity to use my experience to
@@ -22,13 +22,15 @@ Skills / Strengths
 Senior Software Engineer: [EigenTech] (March 2022 - Present)
 ------------------------------------------------------------
 
-* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
-  Services for the Companies ML-based Financial NLP product.
-* Organised a Security Guild to raise awareness within the Engineering Team and
-  install processes to de-risk Product decisions.
-* Mentored Junior Engineers.
+* Collaborated with Senior and Chief Engineers on solutions to the issues that
+  affected the Engineering Team.
 * Provided Technical guidance towards the Engineering Direction and
   improvements to the CI & DevOps processes.
+* Organised a Security Guild to raise awareness within the Engineering Team and
+  install processes to de-risk Product decisions.
+* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
+  Services for the Companies ML-based Financial NLP product.
+* Mentored Junior Engineers.
 
 Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
 -----------------------------------------------------------------------
