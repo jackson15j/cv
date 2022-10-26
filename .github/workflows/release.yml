@@ -11,11 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get pandoc docker image
-        run: docker pull pandoc/latex
+      - name: Install Task
+        uses: arduino/setup-task@v1
 
       - name: Generate PDF
-        run: ./markdown_pdf.sh craig_astill_cv.md
+        run: task generate-pdf
 
       - uses: ncipollo/release-action@v1
         with:
