@@ -3,7 +3,7 @@ Craig Astill
 
 Contact: [+447834810193], [craigastill@gmail.com]
 
-Pragmatic Technical Leader with over 15 years of experience in Software
+Pragmatic Technical Leader with over 17 years of experience in Software
 Development, DevOps & Quality Assurance roles in both large Corporations and
 Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
 improvement evangelist. Looking for an opportunity to use my experience to
@@ -19,8 +19,24 @@ Skills / Strengths
 * Additional: C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
   Python (Twisted/Selenium), Travis, [NLP] (Natural Language Processing).
 
-Tech Lead / Senior Software Developer: [Clinithink] (2018 - Present)
---------------------------------------------------------------------
+Senior Software Engineer: [EigenTech] (March 2022 - Present)
+------------------------------------------------------------
+
+* Audited sections of the code-base & processes to aid collaborating with the
+  Senior / Chief Engineers on solutions to the issues that affected the
+  Engineering Team (eg. Process Inefficiencies, Poor design, Risks, lack of
+  automation).
+* Provided Technical guidance towards the Engineering Direction and
+  improvements to the CI & DevOps processes.
+* Organised a Security Guild to raise awareness within the Engineering Team and
+  install processes to de-risk Product decisions.
+* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
+  Services for the Companies ML-based Financial NLP product.
+* Mentored Junior Engineers and provided direction/evaluation to their Line
+  Managers..
+
+Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
+-----------------------------------------------------------------------
 
 #### Tech Lead: (June 2021 - Present)
 
@@ -141,6 +157,9 @@ Interests
 
 [+447834810193]: tel:+447834810193
 [craigastill@gmail.com]: mailto:craigastill@gmail.com
+
+[EigenTech]: https://eigentech.com
+
 [Clinithink]: https://www.clinithink.com
 [Snomed]: https://www.snomed.org
 
