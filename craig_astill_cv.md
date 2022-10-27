@@ -3,11 +3,11 @@ Craig Astill
 
 Contact: [+447834810193], [craigastill@gmail.com]
 
-Pragmatic Technical Leader with over 15 years of experience in Software
-Development, DevOps & Quality Assurance roles in both large Corporations and
-Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
-improvement evangelist. Looking for an opportunity to use my experience to
-increase team productivity and progress to Architect / Staff Engineer.
+The past 17 years I have progressed from QA, to Development to Tech Lead. In
+the process I have helped nurture people & Companies through evangelising
+change, embracing automation and tightening feedback loops in the Software
+Development Process. I'm looking to progress technically so that I can solve
+the bigger problems in a top-down fashion instead of bottom-up.
 
 Skills / Strengths
 ------------------
