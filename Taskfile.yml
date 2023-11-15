@@ -3,6 +3,9 @@ version: '3'
 
 output: prefixed
 
+env:
+  GITHUB_TOKEN: unset
+
 vars:
   DOCKER_IMAGE: pandoc/latex
 
@@ -28,3 +31,11 @@ tasks:
       - ./*.yaml
     generates:
       - craig_astill_cv.pdf
+
+  semantic-release:
+    summary: Tag Github based off semantic commits.
+    dotenv: ['.env',]
+    cmds:
+      - echo $GITHUB_TOKEN
+      - docker build . -t semantic-release-cv
+      - docker run --rm --name srcv -e GITHUB_TOKEN -v "${PWD}":/app  -v ~/.ssh:/root/.ssh/ semantic-release-cv --debug -d
