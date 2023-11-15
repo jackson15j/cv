@@ -27,8 +27,8 @@ jobs:
             release_version="$(cat .RELEASE_VERSION)"
             echo "RELEASE_VERSION=$release_version" >> $GITHUB_ENV
           fi
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: ncipollo/release-action@v1
         with:
