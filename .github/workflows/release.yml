@@ -21,3 +21,9 @@ jobs:
         with:
           artifacts: "*.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # TODO: consolidate Semantic Version + Above PDF artefact generation!
+      - name: Semantic Release
+        run: task semantic-release
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
