@@ -19,8 +19,28 @@ Skills / Strengths
 * Additional: C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
   Python (Twisted/Selenium), Travis, [NLP] (Natural Language Processing).
 
-Senior Software Engineer: [EigenTech] (March 2022 - Present)
-------------------------------------------------------------
+Senior Software Engineer: [Divido] (March 2023 - Present)
+---------------------------------------------------------
+
+* Data Team:
+    * Transition Project to move from bespoke Python scripts to formalised ETL
+      Data Pipelines, Orchestrated by [Apache Airflow] & [ArgoCD].
+    * Used [Meltano] for Extraction/Loading and [DBT] for Transformation, from
+      the MySQL Production DB's to AWS Redshift (Warehouse), via AWS S3 (Data
+      Lake).
+    * Developed ETL pipeline to extract Finance data from [Xero] into the AWS
+      Redshift Warehouse for the Business Analysts to graph in Tableu.
+* Migration Team:
+    * Worked with Staff Engineer to migrate Customers on Legacy PHP/GraphQL
+      Monolith to current Go/React MicroServices.
+    * Applied Side-by-Side & Strangler-Fig patterns to maintain Service during
+      migration.
+    * Championed Codegen ([oapi-codegen (golang)]) + Contract Boundary testing
+      ([Specmatic]) with a centralised [OpenAPI] repo to tighten the
+      development cycle and allow more focus on Business Logic development.
+
+Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
+------------------------------------------------------------------
 
 * Audited sections of the code-base & processes to aid collaborating with the
   Senior / Chief Engineers on solutions to the issues that affected the
@@ -157,6 +177,16 @@ Interests
 
 [+447834810193]: tel:+447834810193
 [craigastill@gmail.com]: mailto:craigastill@gmail.com
+
+[Divido]: https://www.divido.com/
+[Apache Airflow]: https://airflow.apache.org/
+[ArgoCD]: https://argoproj.github.io/cd/
+[Meltano]: https://docs.meltano.com/getting-started/meltano-at-a-glance
+[DBT]: https://docs.getdbt.com/docs/introduction
+[Xero]: https://www.xero.com/uk/
+[oapi-codegen (golang)]: https://github.com/deepmap/oapi-codegen
+[Specmatic]: https://specmatic.in/documentation.html
+[OpenAPI]: https://www.openapis.org/
 
 [EigenTech]: https://eigentech.com
 
