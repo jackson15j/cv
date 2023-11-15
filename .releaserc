@@ -1,0 +1,80 @@
+{
+  "branches": [
+    "+([0-9])?(.{+([0-9]),x}).x",
+    "master",
+    "main",
+    { "name": "develop", "prerelease": true },
+
+    { "name": "chore*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "ci*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "doc*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "feat*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "fix*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "revert*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "test*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+
+    { "name": "chore/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "ci/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "doc/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "feat/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "fix/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "revert/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" },
+    { "name": "test/*", "prerelease": "${name.replace(/[^A-Za-z0-9-]/g, '--').toLowerCase()}" }
+  ],
+  "plugins": [
+    ["@semantic-release/commit-analyzer", {
+      "preset": "conventionalcommits",
+      "releaseRules": [
+        {"type": "chore", "release": "patch"},
+        {"type": "ci", "release": "patch"}
+      ]
+    }],
+    ["@semantic-release/release-notes-generator", {
+      "preset": "conventionalcommits",
+      "presetConfig": {
+        "types": [
+          {
+            "type": "chore",
+            "section": "Chore",
+            "hidden": false
+          },
+          {
+            "type": "ci",
+            "section": "CI/CD",
+            "hidden": false
+          },
+          {
+            "type": "docs",
+            "section": "Docs",
+            "hidden": false
+          },
+          {
+            "type": "feat",
+            "section": "Features",
+            "hidden": false
+          },
+          {
+            "type": "fix",
+            "section": "Bug Fixes",
+            "hidden": false
+          },
+          {
+            "type": "revert",
+            "section": "Revert",
+            "hidden": false
+          },
+          {
+            "type": "test",
+            "section": "Tests",
+            "hidden": false
+          }
+        ]
+      }
+    }],
+    "@semantic-release/changelog",
+    "@semantic-release/github",
+    ["@semantic-release/exec", {
+      "publishCmd": "echo \"v${nextRelease.version}\" > ./.RELEASE_VERSION"
+    }]
+  ]
+}

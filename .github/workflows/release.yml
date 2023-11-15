@@ -2,14 +2,17 @@ name: Release
 
 on:
   push:
-    tags:
-    - '*'
+    branches:
+    - main
+    - master
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    env:
+      RELEASE_VERSION: ""
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Install Task
         uses: arduino/setup-task@v1
@@ -17,7 +20,18 @@ jobs:
       - name: Generate PDF
         run: task generate-pdf
 
+      - name: Semantic Release
+        run: |
+          task semantic-release
+          if test -f .RELEASE_VERSION; then
+            release_version="$(cat .RELEASE_VERSION)"
+            echo "RELEASE_VERSION=$release_version" >> $GITHUB_ENV
+          fi
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "*.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ env.RELEASE_VERSION }}
