@@ -8,6 +8,8 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
+    env:
+      RELEASE_VERSION: ""
     steps:
       - uses: actions/checkout@v4
 
@@ -17,13 +19,18 @@ jobs:
       - name: Generate PDF
         run: task generate-pdf
 
+      - name: Semantic Release
+        run: |
+          task semantic-release
+          if test -f .RELEASE_VERSION; then
+            release_version="$(cat .RELEASE_VERSION)"
+            echo "RELEASE_VERSION=$release_version" >> $GITHUB_ENV
+          fi
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "*.pdf"
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # TODO: consolidate Semantic Version + Above PDF artefact generation!
-      - name: Semantic Release
-        run: task semantic-release
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ env.RELEASE_VERSION }}
