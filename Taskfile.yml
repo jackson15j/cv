@@ -38,4 +38,4 @@ tasks:
     cmds:
       - echo $GITHUB_TOKEN
       - docker build . -t semantic-release-cv
-      - docker run --rm --name srcv -e GITHUB_TOKEN -v "${PWD}":/app  -v ~/.ssh:/root/.ssh/ semantic-release-cv --debug -d
+      - docker run --rm --name srcv -e GITHUB_TOKEN -v "${PWD}":/app  -v ~/.ssh:/root/.ssh/ semantic-release-cv
