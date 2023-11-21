@@ -1,3 +1,5 @@
 /template.latex
 *.pdf
 /.task/
+/.RELEASE_VERSION
+/CHANGELOG.md
