@@ -34,5 +34,8 @@ jobs:
         with:
           allowUpdates: true
           artifacts: "*.pdf"
+          # Don't mess with Name/Description set by Semantic Release step.
+          omitDraftDuringUpdate: true
+          omitNameDuringUpdate: true
           tag: ${{ env.RELEASE_VERSION }}
           token: ${{ secrets.GITHUB_TOKEN }}
