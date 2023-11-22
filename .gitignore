@@ -3,3 +3,4 @@
 /.task/
 /.RELEASE_VERSION
 /CHANGELOG.md
+/.env
