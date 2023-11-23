@@ -1,5 +1,6 @@
 ---
-# http://pandoc.org/MANUAL.html#extension-yaml_metadata_block
+# https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
+# https://pandoc.org/MANUAL.html#variables-for-latex
 
 papersize: a4
 fontfamily: sourcesanspro
