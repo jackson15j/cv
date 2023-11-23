@@ -149,24 +149,18 @@ Previous Experience
 * Kitchen Supervisor: Pizza Hut (2000 - 2006)
 * Sports Cameraman / IT Consultant: Outside Video Productions (1997 - 2003)
 
-Education
----------
+Education & Interests
+---------------------
 
 * BEng Electronic Engineering (2:1) - University of Reading (2001 - 2005).
-* Role Training: Tech Lead ([Pat Kua]), Scrum Master ([Agile Bear]).
-* Skills Training: VSphere & VCenter Administration (VMware), CCNA & Security
-  Training (Cisco).
 * Personal Development:
-    * Rust/c/C# - Open Source project contributions and self-education.
-    * Tech talks & Conferences ([Cloud Native Wales], [Velocity], [Euro Python]).
-    * Welsh.
-
-Interests
----------
-
-* Current: Cycling, photography, https://github.com/jackson15j
-* Previously: Ice Hockey (professional), Kung Fu (1st Dan Brown), Karate
-  (Blue).
+    * Go/Rust/c - Open Source project contributions and self-education.
+    * Tech Books, Tech Talks & Conferences (eg. [Cloud Native Wales],
+      [Velocity], [Euro Python]).
+    * https://github.com/jackson15j
+* Current Interests: Welsh, Cycling, swimming.
+* Previous Interests: Ice Hockey (professional), Kung Fu (1st Dan Brown),
+  Karate (Blue), photography.
 
 
 [+447834810193]: tel:+447834810193
