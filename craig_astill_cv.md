@@ -93,58 +93,52 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
 Software Developer / Quality Assurance: Cisco (2008 - 2018)
 -----------------------------------------------------------
 
-#### Team Lead: TTS Cloud Gateway MicroService (March 2017 - May 2018)
+The breakdown of major projects & roles whilst at [Cisco] (and [Tandberg]
+before the acquisition) include:
 
-* Architect & Team Lead for a Cisco cloud-based Gateway Service based on Java 8
-  [Spring Boot], to Consume both internal and multiple 3rd Party TTS/TTT API's
-  and provide a singular User API.
-* Tech Stack: Java 8 [Spring Boot], docker, Tomcat, Gitlab, Ansible,
-  Jenkins. Deployments: In-House cloud & Google Kubernetes Cluster.
-* Tech Lead role between the CTO office, Cloud Architecture Principal Engineers
-  and PO.
-
-#### Software Developer: [Cisco TelePresence VCS] (Jan 2015 - March 2017)
-
-* C++ developer for the [Cisco TelePresence VCS] (Video Communication Server)
-  (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server for
-  TelePresence) project doing feature development on internal/external
-  protocols, such as: SIP, H323, Multi-stream and Secure iX Transport support.
-* Involved in tooling migrations: SVN to Git (Bitbucket based), Bugzilla to
-  Jira, Jenkins manual jobs to CI as code, for a team of 200+ active
-  developers.
-* Involved in a Development Best Practices group, to increase productivity and
-  knowledge sharing.
-
-#### Software Developer: Test framework work (2011 - 2017)
-
-* Actively involved in the design & development of our in-house Python/Twisted
-  based testing framework for all API/SSH/CLI/Web driven TelePresence
-  products.
-* Participated in Community meet ups & promotion to expand usage from the
-  UK/Norway offices to all products in the [Cisco Unified Communications]
-  portfolio.
-
-#### Quality Assurance / Software Developer: [Cisco TelePresence Conductor] (March 2011 - Jan 2015)
-
-* Transitioned from Quality Assurance to Software Engineer on the [Cisco
-  TelePresence Conductor] (load balancer product) for the [Cisco TelePresence
-  MCU] and [Cisco TelePresence Server] to enable efficient use of geo-located
-  Conference resources.
-* Tech Stack: Python (Twisted/[flask]) / Erlang backend, PHP frontend, in-house
-  Python test framework.
-
-#### Lab Technician (Jan 2010 - March 2011)
-
-* Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare infrastructure
-  for Application testing & saleable portfolio expansion.
-* Deployed & Maintained Test infrastructure and VM's including CUCM, Selenium
-  RC and Tandberg Management Server.
-
-#### Quality Assurance: [Cisco TelePresence VCS] (Aug 2008 - Jan 2010)
-
-* Automated Python testing of the [Cisco TelePresence VCS] and WebUI testing
-  via Selenium.
-* Mentor for new Quality Assurance hires.
+* **Team Lead:** TTS Cloud Gateway MicroService (March 2017 - May 2018):
+    * Architect & Team Lead for a Cisco cloud-based Gateway Service based on
+      Java 8 [Spring Boot], to Consume both internal and multiple 3rd Party
+      TTS/TTT API's and provide a singular User API.
+    * Tech Stack: Java 8 [Spring Boot], docker, Tomcat, Gitlab, Ansible,
+      Jenkins. Deployments: In-House cloud & Google Kubernetes Cluster.
+    * Tech Lead role between the CTO office, Cloud Architecture Principal
+      Engineers and PO.
+* **Software Developer:** [Cisco TelePresence VCS] (Jan 2015 - March 2017):
+    * C++ developer for the [Cisco TelePresence VCS] (Video Communication
+      Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server
+      for TelePresence) project doing feature development on internal/external
+      protocols, such as: SIP, H323, Multi-stream and Secure iX Transport
+      support.
+    * Involved in tooling migrations: SVN to Git (Bitbucket based), Bugzilla to
+      Jira, Jenkins manual jobs to CI as code, for a team of 200+ active
+      developers.
+    * Involved in a Development Best Practices group, to increase productivity
+      and knowledge sharing.
+* **Software Developer:** Test framework work (2011 - 2017):
+    * Actively involved in the design & development of our in-house
+      Python/Twisted based testing framework for all API/SSH/CLI/Web driven
+      TelePresence products.
+    * Participated in Community meet ups & promotion to expand usage from the
+      UK/Norway offices to all products in the [Cisco Unified Communications]
+      portfolio.
+* **Quality Assurance / Software Developer:** [Cisco TelePresence Conductor]
+  (March 2011 - Jan 2015):
+    * Transitioned from Quality Assurance to Software Engineer on the [Cisco
+      TelePresence Conductor] (load balancer product) for the [Cisco
+      TelePresence MCU] and [Cisco TelePresence Server] to enable efficient use
+      of geo-located Conference resources.
+    * Tech Stack: Python (Twisted/[flask]) / Erlang backend, PHP frontend,
+      in-house Python test framework.
+* **Lab Technician:** (Jan 2010 - March 2011):
+    * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare
+      infrastructure for Application testing & saleable portfolio expansion.
+    * Deployed & Maintained Test infrastructure and VM's including CUCM,
+      Selenium RC and Tandberg Management Server.
+* **Quality Assurance:** [Cisco TelePresence VCS] (Aug 2008 - Jan 2010):
+    * Automated Python testing of the [Cisco TelePresence VCS] and WebUI
+      testing via Selenium.
+    * Mentor for new Quality Assurance hires.
 
 Previous Experience
 -------------------
@@ -193,6 +187,8 @@ Interests
 [Clinithink]: https://www.clinithink.com
 [Snomed]: https://www.snomed.org
 
+[Cisco]: https://www.cisco.com
+[Tandberg]: https://www.cisco.com/c/en/us/services/acquisitions/tandberg.html
 [Cisco TelePresence VCS]: https://www.cisco.com/c/en/us/products/unified-communications/telepresence-video-communication-server-vcs/index.html
 [Cisco TelePresence Conductor]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-conductor/index.html
 [Cisco TelePresence MCU]: https://www.cisco.com/c/en/us/products/conferencing/telepresence-mcu-mse-series/index.html
