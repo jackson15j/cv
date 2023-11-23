@@ -2,6 +2,8 @@
 # http://pandoc.org/MANUAL.html#extension-yaml_metadata_block
 
 papersize: a4
+fontfamily: sourcesanspro
+fontfamilyoptions: default
 fontsize: 10pt
 geometry: margin=2cm
 author: "Craig Astill"

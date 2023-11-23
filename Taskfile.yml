@@ -7,7 +7,7 @@ env:
   GITHUB_TOKEN: unset
 
 vars:
-  DOCKER_IMAGE: pandoc/latex
+  DOCKER_IMAGE: pandoc/extra
 
 tasks:
   docker-pull:
@@ -24,7 +24,7 @@ tasks:
       This task will pull down the latest pandoc docker image and use that to
       generate a new CV PDF.
     cmds:
-      - docker run -v "$(pwd)/.dev/pandoc/:/yaml" -v "$(pwd):/data" --user $(id -u):$(id -g) {{.DOCKER_IMAGE}} craig_astill_cv.md /yaml/metadata.yaml /yaml/layout.yaml -o craig_astill_cv.pdf
+      - docker run -v "$(pwd)/.dev/pandoc/:/yaml" -v "$(pwd):/data" --user $(id -u):$(id -g) {{.DOCKER_IMAGE}} --pdf-engine=xelatex craig_astill_cv.md /yaml/metadata.yaml /yaml/layout.yaml -o craig_astill_cv.pdf
       - echo "Generated PDF"
     sources:
       - craig_astill_cv.md
