@@ -2,7 +2,10 @@
 # https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
 # https://pandoc.org/MANUAL.html#variables-for-latex
 
-lang: en-GB
+# Babel Hyphenation based off language rules.
+# lang: en-GB
+# No Hyphenation. ie. no split words due to page margin.
+lang: nil
 papersize: a4
 fontfamily: sourcesanspro
 fontfamilyoptions: default
