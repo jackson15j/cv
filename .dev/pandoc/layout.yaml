@@ -2,6 +2,7 @@
 # https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
 # https://pandoc.org/MANUAL.html#variables-for-latex
 
+lang: en-GB
 papersize: a4
 fontfamily: sourcesanspro
 fontfamilyoptions: default
