@@ -10,6 +10,6 @@ papersize: a4
 fontfamily: sourcesanspro
 fontfamilyoptions: default
 fontsize: 10pt
-geometry: margin=2cm
+geometry: margin=1.5cm
 author: "Craig Astill"
 ---
