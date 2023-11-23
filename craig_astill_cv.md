@@ -58,37 +58,33 @@ Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
 Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
 -----------------------------------------------------------------------
 
-#### Tech Lead: (June 2021 - Present)
-
-* Tech Lead on a new Medical NLP product to compliment the Companies updated
-  portfolio. The Product extracts narrative from EMR (Electronic Medical
-  Records) and encodes it against the [Snomed] standard with additional
-  Temporal & Relational context.
-* Worked in the Architecture Team to design & implement the core
-  libraries/modules for the new portfolio of products, used by all downstream
-  Application Development Teams.
-* Led the internal migration from Gitlab/Taiga/Jenkins to Azure DevOps to
-  reduce costs and lost development time from lack of integration.
-* Continued to define & shape the Engineering Direction of the team to increase
-  productivity & quality.
-* Additional roles: Mentoring, interviews, Team Lead.
-
-#### Senior Software Developer: (2018 - June 2021)
-
-* Team Lead for legacy & new portfolio Medical NLP products:
+* **Tech Lead:** (June 2021 - March 2022):
+    * Tech Lead on a new Medical NLP product to compliment the Companies
+      updated portfolio. The Product extracts narrative from EMR (Electronic
+      Medical Records) and encodes it against the [Snomed] standard with
+      additional Temporal & Relational context.
+    * Worked in the Architecture Team to design & implement the core
+      libraries/modules for the new portfolio of products, used by all
+      downstream Application Development Teams.
+    * Led the internal migration from Gitlab/Taiga/Jenkins to Azure DevOps to
+      reduce costs and lost development time from lack of integration.
+    * Continued to define & shape the Engineering Direction of the team to
+      increase productivity & quality.
+    * Additional roles: Mentoring, interviews, Team Lead.
+* **Senior Software Developer / Team Lead:** (2018 - June 2021):
     * Legacy Stack: C++ NLP core, Python (flask/tornado) backend, Javascript
       (Angular) frontend, AWS (boto3) deployment.
     * New Stack: C++ NLP core, Django backend, React frontend.
-* Remit to: _"Define steps to transition Engineering Team from Start-Up to
-  Enterprise processes of working."_:
-    * Led Mentoring & knowledge transfer sessions to develop a _"sharing"_ Team
-      culture and increase bus count.
-    * Education on how to: _"shorten the feedback loop"_, to increase
-      productivity.
-    * Education on De-Risking changes to improve quality and raise design
-      issues early in the process.
-    * Provide Linux support & design principals to their Windows-based
-      Product Offerings.
+    * Remit to: _"Define steps to transition Engineering Team from Start-Up to
+      Enterprise processes of working."_:
+        * Led Mentoring & knowledge transfer sessions to develop a _"sharing"_
+          Team culture and increase bus count.
+        * Education on how to: _"shorten the feedback loop"_, to increase
+          productivity.
+        * Education on De-Risking changes to improve quality and raise design
+          issues early in the process.
+        * Provide Linux support & design principals to their Windows-based
+          Product Offerings.
 
 Software Developer / Quality Assurance: Cisco (2008 - 2018)
 -----------------------------------------------------------
