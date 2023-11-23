@@ -42,16 +42,16 @@ Senior Software Engineer: [Divido] (March 2023 - Present)
 Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
 ------------------------------------------------------------------
 
+* Organised a Security Guild to raise awareness within the Engineering Team and
+  install processes to de-risk Product decisions.
+* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
+  Services for the Companies ML-based Financial NLP product.
 * Audited sections of the code-base & processes to aid collaborating with the
   Senior / Chief Engineers on solutions to the issues that affected the
   Engineering Team (eg. Process Inefficiencies, Poor design, Risks, lack of
   automation).
 * Provided Technical guidance towards the Engineering Direction and
   improvements to the CI & DevOps processes.
-* Organised a Security Guild to raise awareness within the Engineering Team and
-  install processes to de-risk Product decisions.
-* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
-  Services for the Companies ML-based Financial NLP product.
 * Mentored Junior Engineers and provided direction/evaluation to their Line
   Managers..
 
