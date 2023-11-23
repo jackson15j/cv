@@ -1,8 +1,0 @@
----
-# http://pandoc.org/MANUAL.html#extension-yaml_metadata_block
-
-papersize: a4
-fontsize: 10pt
-geometry: margin=2cm
-author: "Craig Astill"
----

@@ -1,0 +1,15 @@
+---
+# https://pandoc.org/MANUAL.html#extension-yaml_metadata_block
+# https://pandoc.org/MANUAL.html#variables-for-latex
+
+# Babel Hyphenation based off language rules.
+# lang: en-GB
+# No Hyphenation. ie. no split words due to page margin.
+lang: nil
+papersize: a4
+fontfamily: sourcesanspro
+fontfamilyoptions: default
+fontsize: 10pt
+geometry: margin=1.5cm
+author: "Craig Astill"
+---
