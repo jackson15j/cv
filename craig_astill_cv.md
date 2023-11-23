@@ -1,9 +1,9 @@
 Craig Astill
 ------------
 
-Contact: [+447834810193], [craigastill@gmail.com]
+**Contact:** [+447834810193], [craigastill@gmail.com].
 
-Pragmatic Technical Leader with over 17 years of experience in Software
+Pragmatic Technical Leader with over 18 years of experience in Software
 Development, DevOps & Quality Assurance roles in both large Corporations and
 Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
 improvement evangelist. Looking for an opportunity to use my experience to
@@ -12,17 +12,17 @@ increase team productivity and progress to Architect / Staff Engineer.
 Skills / Strengths
 ------------------
 
-* Core: Python (Flask/Tornado/Django), JavaScript (React), DevOps, AWS
-  ([boto3]), Docker, CI (Azure DevOps/Jenkins/Gitlab/Github), Linux, Agile,
+* **Core:** Python (Flask/Tornado/Django), JavaScript (React), DevOps, AWS
+  ([boto3]), Docker, CI (Azure DevOps, Jenkins, Gitlab, Github), Linux, Agile,
   Mentoring, QA-Focused Development, Architecture & Design, Tech Lead, Process
   Improvement, Team Lead.
-* Additional: C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
-  Python (Twisted/Selenium), Travis, [NLP] (Natural Language Processing).
+* **Additional:** C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
+  PHP, Python (Twisted/Selenium), Travis, [NLP].
 
 Senior Software Engineer: [Divido] (March 2023 - Present)
 ---------------------------------------------------------
 
-* Data Team:
+* **Data Team:**
     * Transition Project to move from bespoke Python scripts to formalised ETL
       Data Pipelines, Orchestrated by [Apache Airflow] & [ArgoCD].
     * Used [Meltano] for Extraction/Loading and [DBT] for Transformation, from
@@ -30,7 +30,7 @@ Senior Software Engineer: [Divido] (March 2023 - Present)
       Lake).
     * Developed ETL pipeline to extract Finance data from [Xero] into the AWS
       Redshift Warehouse for the Business Analysts to graph in Tableu.
-* Migration Team:
+* **Migration Team:**
     * Worked with Staff Engineer to migrate Customers on Legacy PHP/GraphQL
       Monolith to current Go/React MicroServices.
     * Applied Side-by-Side & Strangler-Fig patterns to maintain Service during
