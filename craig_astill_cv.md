@@ -3,11 +3,12 @@ Craig Astill
 
 **Contact:** [+447834810193], [craigastill@gmail.com].
 
-Pragmatic Technical Leader with over 18 years of experience in Software
-Development, DevOps & Quality Assurance roles in both large Corporations and
-Start-Ups. Cross skilled as a Team Lead, Architect, Mentor and process
-improvement evangelist. Looking for an opportunity to use my experience to
-increase team productivity and progress to Architect / Staff Engineer.
+Pragmatic Technical Leader with over 18 years of experience in
+Software Development, DevOps & Quality Assurance roles in both large
+Corporations and Start-Ups. Cross skilled as a Team Lead, Assistant
+Architect, Mentor and process improvement evangelist. Looking for an
+opportunity to use my experience to increase team productivity and
+progress to Architect / Staff Engineer.
 
 Skills / Strengths
 ------------------
@@ -16,21 +17,26 @@ Skills / Strengths
   ([boto3]), Docker, CI (Azure DevOps, Jenkins, Gitlab, Github), Linux, Agile,
   Mentoring, QA-Focused Development, Architecture & Design, Tech Lead, Process
   Improvement, Team Lead.
-* **Additional:** C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
-  PHP, Python (Twisted/Selenium), Travis, [NLP].
+* **Additional:** C++, PHP, SQL, GoLang, Java/Spring Boot, Erlang,
+  Ansible, VMWare, Python (Twisted/Selenium), [NLP].
 
 Senior Software Engineer: [Divido] (March 2023 - March 2024)
 ------------------------------------------------------------
 
 * Redundancy due to lack of Company cash-flow.
 * **Data Team:**
-    * Transition Project to move from bespoke Python scripts to formalised ETL
-      Data Pipelines, Orchestrated by [Apache Airflow] & [ArgoCD].
-    * Used [Meltano] for Extraction/Loading and [DBT] for Transformation, from
-      the MySQL Production DB's to AWS Redshift (Warehouse), via AWS S3 (Data
-      Lake).
+    * Co-Designed & Deployed the Team's first modular ETL pipeline to
+      pull data from Production DB into the Data Warehouse for
+      Analytics. Technologies: [Meltano], [DBT], MySQL, AWS
+      S3/Redshift.
+        * **Benefits:** Removed dependency on bespoke Python
+          Scripts. Enabled access to an additional 81 tables from
+          config changes. Formalised documentation with tagging
+          (eg. PII, JSON blobs).
     * Developed ETL pipeline to extract Finance data from [Xero] into the AWS
       Redshift Warehouse for the Business Analysts to graph in Tableu.
+        * **Benefits:** Visibility of Accounts/Budgets against
+          Production Data.
 * **Migration Team:**
     * Worked with Staff Engineer to migrate Customers on Legacy PHP/GraphQL
       Monolith to current Go/React MicroServices.
@@ -61,7 +67,7 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
 -----------------------------------------------------------------------
 
 * **Tech Lead:** (June 2021 - March 2022):
-    * Tech Lead on a new Medical NLP product to compliment the Companies
+    * Tech Lead on a new Medical NLP product to complement the Companies
       updated portfolio. The Product extracts narrative from EMR (Electronic
       Medical Records) and encodes it against the [Snomed] standard with
       additional Temporal & Relational context.
@@ -74,9 +80,8 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
       increase productivity & quality.
     * Additional roles: Mentoring, interviews, Team Lead.
 * **Senior Software Developer / Team Lead:** (2018 - June 2021):
-    * Legacy Stack: C++ NLP core, Python (flask/tornado) backend, Javascript
-      (Angular) frontend, AWS (boto3) deployment.
-    * New Stack: C++ NLP core, Django backend, React frontend.
+    * Developed Backend NLP Applications with API/WebUI
+      access. Tech Stack stack: C++ NLP core, Django, React.
     * Remit to: _"Define steps to transition Engineering Team from Start-Up to
       Enterprise processes of working."_:
         * Led Mentoring & knowledge transfer sessions to develop a _"sharing"_
@@ -100,8 +105,6 @@ before the acquisition) include:
       TTS/TTT API's and provide a singular User API.
     * Tech Stack: Java 8 [Spring Boot], docker, Tomcat, Gitlab, Ansible,
       Jenkins. Deployments: In-House cloud & Google Kubernetes Cluster.
-    * Tech Lead role between the CTO office, Cloud Architecture Principal
-      Engineers and PO.
 * **Software Developer:** [Cisco TelePresence VCS] (Jan 2015 - March 2017):
     * C++ developer for the [Cisco TelePresence VCS] (Video Communication
       Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server
@@ -111,8 +114,6 @@ before the acquisition) include:
     * Involved in tooling migrations: SVN to Git (Bitbucket based), Bugzilla to
       Jira, Jenkins manual jobs to CI as code, for a team of 200+ active
       developers.
-    * Involved in a Development Best Practices group, to increase productivity
-      and knowledge sharing.
 * **Software Developer:** Test framework work (2011 - 2017):
     * Actively involved in the design & development of our in-house
       Python/Twisted based testing framework for all API/SSH/CLI/Web driven
@@ -120,7 +121,7 @@ before the acquisition) include:
     * Participated in Community meet ups & promotion to expand usage from the
       UK/Norway offices to all products in the [Cisco Unified Communications]
       portfolio.
-* **Quality Assurance / Software Developer:** [Cisco TelePresence Conductor]
+* **Software Developer:** [Cisco TelePresence Conductor]
   (March 2011 - Jan 2015):
     * Transitioned from Quality Assurance to Software Engineer on the [Cisco
       TelePresence Conductor] (load balancer product) for the [Cisco
