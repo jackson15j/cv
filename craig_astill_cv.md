@@ -19,9 +19,10 @@ Skills / Strengths
 * **Additional:** C++, C#, Java/Spring Boot, Groovy, Erlang, Ansible, VMWare,
   PHP, Python (Twisted/Selenium), Travis, [NLP].
 
-Senior Software Engineer: [Divido] (March 2023 - Present)
----------------------------------------------------------
+Senior Software Engineer: [Divido] (March 2023 - March 2024)
+------------------------------------------------------------
 
+* Redundancy due to lack of Company cash-flow.
 * **Data Team:**
     * Transition Project to move from bespoke Python scripts to formalised ETL
       Data Pipelines, Orchestrated by [Apache Airflow] & [ArgoCD].
@@ -42,6 +43,7 @@ Senior Software Engineer: [Divido] (March 2023 - Present)
 Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
 ------------------------------------------------------------------
 
+* Redundancy due to lack of Company cash-flow.
 * Organised a Security Guild to raise awareness within the Engineering Team and
   install processes to de-risk Product decisions.
 * Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
