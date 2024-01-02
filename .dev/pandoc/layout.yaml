@@ -9,7 +9,7 @@ lang: nil
 papersize: a4
 fontfamily: sourcesanspro
 fontfamilyoptions: default
-fontsize: 10pt
+fontsize: 11pt
 geometry: margin=1.5cm
 author: "Craig Astill"
 ---
