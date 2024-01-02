@@ -8,7 +8,7 @@ Software Development, DevOps & Quality Assurance roles in both large
 Corporations and Start-Ups. Cross skilled as a Team Lead, Assistant
 Architect, Mentor and process improvement evangelist. Looking for an
 opportunity to use my experience to increase team productivity and
-progress to Architect / Staff Engineer.
+progress to Staff Engineer / Architect.
 
 Skills / Strengths
 ------------------
@@ -52,7 +52,7 @@ Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
 * Redundancy due to lack of Company cash-flow.
 * Organised a Security Guild to raise awareness within the Engineering Team and
   install processes to de-risk Product decisions.
-* Co-Lead on a Customer Facing Security Squad to add functionality to the Auth
+* Co-Lead on a Customer facing Security Squad to add functionality to the Auth
   Services for the Companies ML-based Financial NLP product.
 * Audited sections of the code-base & processes to aid collaborating with the
   Senior / Chief Engineers on solutions to the issues that affected the
@@ -93,8 +93,8 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
         * Provide Linux support & design principals to their Windows-based
           Product Offerings.
 
-Software Developer / Quality Assurance: Cisco (2008 - 2018)
------------------------------------------------------------
+Team Lead / Software Developer / Quality Assurance: Cisco (2008 - 2018)
+-----------------------------------------------------------------------
 
 The breakdown of major projects & roles whilst at [Cisco] (and [Tandberg]
 before the acquisition) include:
@@ -116,24 +116,23 @@ before the acquisition) include:
       developers.
 * **Software Developer:** Test framework work (2011 - 2017):
     * Actively involved in the design & development of our in-house
-      Python/Twisted based testing framework for all API/SSH/CLI/Web driven
-      TelePresence products.
-    * Participated in Community meet ups & promotion to expand usage from the
-      UK/Norway offices to all products in the [Cisco Unified Communications]
-      portfolio.
+      Python/Twisted based testing framework for all API/SSH/CLI/Web
+      driven TelePresence products. Which we marketed to product teams
+      beyond the UK/Norway offices in the [Cisco Unified
+      Communications] portfolio.
 * **Software Developer:** [Cisco TelePresence Conductor]
   (March 2011 - Jan 2015):
-    * Transitioned from Quality Assurance to Software Engineer on the [Cisco
-      TelePresence Conductor] (load balancer product) for the [Cisco
-      TelePresence MCU] and [Cisco TelePresence Server] to enable efficient use
-      of geo-located Conference resources.
+    * Development on the [Cisco TelePresence Conductor] (load balancer
+      product) for the [Cisco TelePresence MCU] and [Cisco
+      TelePresence Server] to enable efficient use of geo-located
+      Conference resources.
     * Tech Stack: Python (Twisted/[flask]) / Erlang backend, PHP frontend,
       in-house Python test framework.
 * **Lab Technician:** (Jan 2010 - March 2011):
     * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare
       infrastructure for Application testing & saleable portfolio expansion.
-    * Deployed & Maintained Test infrastructure and VM's including CUCM,
-      Selenium RC and Tandberg Management Server.
+    * Deployed Test infrastructure and VM's including CUCM, Selenium
+      RC and Tandberg Management Server.
 * **Quality Assurance:** [Cisco TelePresence VCS] (Aug 2008 - Jan 2010):
     * Automated Python testing of the [Cisco TelePresence VCS] and WebUI
       testing via Selenium.
@@ -142,9 +141,9 @@ before the acquisition) include:
 Previous Experience
 -------------------
 
-* System Test Engineer: Oxford Semiconductor Ltd (2006 - 2008)
-    * Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
-      USB/PCI/PCIe/SATA protocol analysers debugging.
+* System Test Engineer: Oxford Semiconductor Ltd (2006 - 2008) -
+  Duties included: Product Test Lead, PCI-SIG/Microsoft certification,
+  USB/PCI/PCIe/SATA protocol analysers debugging.
 * Kitchen Supervisor: Pizza Hut (2000 - 2006)
 * Sports Cameraman / IT Consultant: Outside Video Productions (1997 - 2003)
 
@@ -157,9 +156,9 @@ Education & Interests
     * Tech Books, Tech Talks & Conferences (eg. [Cloud Native Wales],
       [Velocity], [Euro Python]).
     * https://github.com/jackson15j
-* Current Interests: Welsh, Cycling, swimming.
+* Current Interests: Welsh language, Cycling, Swimming, Parenting.
 * Previous Interests: Ice Hockey (professional), Kung Fu (1st Dan Brown),
-  Karate (Blue), photography.
+  Karate (Blue), photography, cooking.
 
 
 [+447834810193]: tel:+447834810193
