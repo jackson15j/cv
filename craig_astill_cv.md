@@ -17,8 +17,8 @@ Skills / Strengths
   ([boto3]), Docker, CI (Azure DevOps, Jenkins, Gitlab, Github), Linux, Agile,
   Mentoring, QA-Focused Development, Architecture & Design, Tech Lead, Process
   Improvement, Team Lead.
-* **Additional:** C++, PHP, SQL, GoLang, Java/Spring Boot, Erlang,
-  Ansible, VMWare, Python (Twisted/Selenium), [NLP].
+* **Additional:** C++, PHP, SQL, Selenium, GoLang, Erlang, Ansible,
+  VMWare, Java, [NLP].
 
 Senior Software Engineer: [Divido] (March 2023 - March 2024)
 ------------------------------------------------------------
@@ -44,7 +44,7 @@ Senior Software Engineer: [Divido] (March 2023 - March 2024)
       migration.
     * Championed Codegen ([oapi-codegen (golang)]) + Contract Boundary testing
       ([Specmatic]) with a centralised [OpenAPI] repo to tighten the
-      development cycle and allow more focus on Business Logic development.
+      development cycle to allow more focus on Business Logic development.
 
 Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
 ------------------------------------------------------------------
@@ -58,7 +58,7 @@ Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
   Senior / Chief Engineers on solutions to the issues that affected the
   Engineering Team (eg. Process Inefficiencies, Poor design, Risks, lack of
   automation).
-* Provided Technical guidance towards the Engineering Direction and
+* Technical guidance towards the Engineering Direction and
   improvements to the CI & DevOps processes.
 * Mentored Junior Engineers and provided direction/evaluation to their Line
   Managers..
@@ -81,15 +81,13 @@ Tech Lead / Senior Software Developer: [Clinithink] (2018 - March 2022)
     * Additional roles: Mentoring, interviews, Team Lead.
 * **Senior Software Developer / Team Lead:** (2018 - June 2021):
     * Developed Backend NLP Applications with API/WebUI
-      access. Tech Stack stack: C++ NLP core, Django, React.
+      access. Tech Stack: C++ NLP core, Django, React.
     * Remit to: _"Define steps to transition Engineering Team from Start-Up to
       Enterprise processes of working."_:
-        * Led Mentoring & knowledge transfer sessions to develop a _"sharing"_
-          Team culture and increase bus count.
+        * Created a culture of Knowledge Sharing.
+        * Shifting Left, with a focus on how to de-risk changes.
         * Education on how to: _"shorten the feedback loop"_, to increase
           productivity.
-        * Education on De-Risking changes to improve quality and raise design
-          issues early in the process.
         * Provide Linux support & design principals to their Windows-based
           Product Offerings.
 
@@ -104,7 +102,7 @@ before the acquisition) include:
       Java 8 [Spring Boot], to Consume both internal and multiple 3rd Party
       TTS/TTT API's and provide a singular User API.
     * Tech Stack: Java 8 [Spring Boot], docker, Tomcat, Gitlab, Ansible,
-      Jenkins. Deployments: In-House cloud & Google Kubernetes Cluster.
+      Jenkins. Cisco/Google (GKE) clouds.
 * **Software Developer:** [Cisco TelePresence VCS] (Jan 2015 - March 2017):
     * C++ developer for the [Cisco TelePresence VCS] (Video Communication
       Server) (Proxy/Gateway/Firewall Traversal/Protocol Inter-working server
@@ -131,12 +129,9 @@ before the acquisition) include:
 * **Lab Technician:** (Jan 2010 - March 2011):
     * Planned & Deployed an EMC SAN, Cisco Blade Server and VMWare
       infrastructure for Application testing & saleable portfolio expansion.
-    * Deployed Test infrastructure and VM's including CUCM, Selenium
-      RC and Tandberg Management Server.
 * **Quality Assurance:** [Cisco TelePresence VCS] (Aug 2008 - Jan 2010):
-    * Automated Python testing of the [Cisco TelePresence VCS] and WebUI
-      testing via Selenium.
-    * Mentor for new Quality Assurance hires.
+    * Mentor new hires + Automated Python/Selenium testing of the
+      [Cisco TelePresence VCS].
 
 Previous Experience
 -------------------
