@@ -46,7 +46,7 @@ Senior Software Engineer: [Divido] (March 2023 - March 2024)
       ([Specmatic]) with a centralised [OpenAPI] repo to tighten the
       development cycle to allow more focus on Business Logic development.
 
-Senior Software Engineer: [EigenTech] (March 2022 - November 2023)
+Senior Software Engineer: [EigenTech] (March 2022 - November 2022)
 ------------------------------------------------------------------
 
 * Redundancy due to lack of Company cash-flow.
